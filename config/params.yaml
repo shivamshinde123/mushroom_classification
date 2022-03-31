@@ -5,7 +5,7 @@ base:
 
 data_source:
   batch_files: Training_Batch_Files
-
+  
 
 data_preparation:
   training_db: Training.db
@@ -16,6 +16,16 @@ data_preparation:
   TrainingArchiveBadData: data/TrainingArchiveBadData
   Training_FileFromDB: data/Training_FileFromDB
   master_csv: master.csv
+
+TrainingLogs:
+  values_from_schema: TrainingLogs/valuesFromSchemaLog.txt
+  good_bad_data_dir_creation: TrainingLogs/GoodAndBadDataFileCreationLogs.txt
+  RawDataFileNameValidation: TrainingLogs/RawDataFileNameValidation.txt
+  numberOfColumnsValidation: TrainingLogs/numberOfColumnsValidation.txt
+  columnWithAllMissingValuesValidation: TrainingLogs/columnWithAllMissingValuesValidation.txt
+  RawTrainingDataTransformation: TrainingLogs/RawTrainingDataTransformation.txt
+  databaseLogs: TrainingLogs/DatabaseLogs.txt
+  preprocessingLogs: TrainingLogs/preprocessingLogs.txt
 
 pred_data_preparation:
   prediction_db: Prediction.db
@@ -34,8 +44,7 @@ saved_models:
 
 data_preprocessing:
   preprocessed_data_dir: data/preprocessed_data
-  null_values_csv: null_values.csv
-
+  preprocessed_data_filename: trainingPreprocessedData.csv
   preprocessed_data_dir_pred: data/preprocessed_data_pred
 
 
