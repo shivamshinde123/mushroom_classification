@@ -1,0 +1,25 @@
+stages:
+  validation:
+    cmd: python src/trainingRawDataValidation.py
+    deps:
+    - config/schema_training.json
+    - Training_Batch_Files/Mushroom_Data_23042021_023412.csv
+  
+  transformation:
+    cmd: python src/trainingRawDataTransformation.py
+    deps:
+    - data/Training_Raw_files_validated/Good_raw/Mushroom_Data_23042021_023412.csv
+  
+  dbinsertion:
+    cmd: python src/trainingDatabaseOperations.py
+    outs:
+    - data/Training_FileFromDB/master.csv
+
+  preprocessing:
+    cmd: python src/trainingPreprocessing.py
+    deps:
+    - data/Training_FileFromDB/master.csv
+    outs:
+    - data/preprocessed_data/trainingPreprocessedData.csv
+
+    
