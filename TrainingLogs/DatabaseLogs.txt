@@ -1,0 +1,8 @@
+2022-04-03 / 19:38:02  ----->  Connection with the database Training.db made
+2022-04-03 / 19:38:02  ----->  Exception occured while deletingthe database. Exception: near "DATABASE": syntax error
+2022-04-03 / 19:38:02  ----->  Connection with the database Training.db made
+2022-04-03 / 19:38:03  ----->  Table named trainingGoodRawDataTable created successfully in the database
+2022-04-03 / 19:38:03  ----->  Connection with the database Training.db made
+2022-04-03 / 19:38:03  ----->  Mushroom_Data_23042021_023412.csv File loaded successfully!!
+2022-04-03 / 19:39:36  ----->  Connection with the database Training.db made
+2022-04-03 / 19:39:36  ----->  File exported successfully!!

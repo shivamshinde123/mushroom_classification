@@ -1,0 +1,1 @@
+2022-04-03 / 19:37:41  ----->  There are no columns with all missing values in the file Mushroom_Data_23042021_023412.csv provided by the client
