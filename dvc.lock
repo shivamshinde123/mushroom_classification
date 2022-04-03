@@ -7,11 +7,27 @@ stages:
       md5: 2ebb73707899775df776fa963ddca39f
       size: 305754
     - path: config/schema_training.json
-      md5: 775cd83f08516bf34c5f77cc33e1a3a5
+      md5: 41b77c2a01d81337b3dae6bee1f328da
       size: 927
   transformation:
     cmd: python src/trainingRawDataTransformation.py
     deps:
     - path: data/Training_Raw_files_validated/Good_raw/Mushroom_Data_23042021_023412.csv
-      md5: 2ebb73707899775df776fa963ddca39f
-      size: 305754
+      md5: 4e4a1a36ef0d701b68d5d88854cd9e4f
+      size: 604708
+  dbinsertion:
+    cmd: python src/trainingDatabaseOperations.py
+    outs:
+    - path: data/Training_FileFromDB/master.csv
+      md5: 5de4ec480ad51bd19e5f79bef4d5db98
+      size: 604754
+  preprocessing:
+    cmd: python src/trainingPreprocessing.py
+    deps:
+    - path: data/Training_FileFromDB/master.csv
+      md5: 5de4ec480ad51bd19e5f79bef4d5db98
+      size: 604754
+    outs:
+    - path: data/preprocessed_data/trainingPreprocessedData.csv
+      md5: 6a0b486f8322e06623758b8b2547ef8e
+      size: 605728
