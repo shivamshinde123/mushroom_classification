@@ -10,6 +10,7 @@ data_source:
 data_preparation:
   training_db: Training.db
   training_db_dir: Training_Database
+  table_name: trainingGoodRawDataTable
   schema_training: config/schema_training.json
   good_validated_raw_dir: data/Training_Raw_files_validated/Good_raw
   bad_validated_raw_dir: data/Training_Raw_files_validated/Bad_raw
@@ -18,14 +19,15 @@ data_preparation:
   master_csv: master.csv
 
 TrainingLogs:
-  values_from_schema: TrainingLogs/valuesFromSchemaLog.txt
-  good_bad_data_dir_creation: TrainingLogs/GoodAndBadDataFileCreationLogs.txt
-  RawDataFileNameValidation: TrainingLogs/RawDataFileNameValidation.txt
-  numberOfColumnsValidation: TrainingLogs/numberOfColumnsValidation.txt
-  columnWithAllMissingValuesValidation: TrainingLogs/columnWithAllMissingValuesValidation.txt
-  RawTrainingDataTransformation: TrainingLogs/RawTrainingDataTransformation.txt
-  databaseLogs: TrainingLogs/DatabaseLogs.txt
-  preprocessingLogs: TrainingLogs/preprocessingLogs.txt
+  main_log_dir: TrainingLogs
+  values_from_schema: valuesFromSchemaLog.txt
+  good_bad_data_dir_creation: GoodAndBadDataFileCreationLogs.txt
+  RawDataFileNameValidation: RawDataFileNameValidation.txt
+  numberOfColumnsValidation: numberOfColumnsValidation.txt
+  columnWithAllMissingValuesValidation: columnWithAllMissingValuesValidation.txt
+  RawTrainingDataTransformation: RawTrainingDataTransformation.txt
+  databaseLogs: DatabaseLogs.txt
+  preprocessingLogs: preprocessingLogs.txt
 
 pred_data_preparation:
   prediction_db: Prediction.db
@@ -48,9 +50,8 @@ data_preprocessing:
   preprocessed_data_dir_pred: data/preprocessed_data_pred
 
 
-  KNNImputer: 
-    n_neighbors: 3 
-    weights: uniform
+  SimpleImputer: 
+    strategy: most_frequent
     missing_values: nan
   
   OrdinalEncoder:

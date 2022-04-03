@@ -1,0 +1,17 @@
+schema: '2.0'
+stages:
+  validation:
+    cmd: python src/trainingRawDataValidation.py
+    deps:
+    - path: Training_Batch_Files/Mushroom_Data_23042021_023412.csv
+      md5: 2ebb73707899775df776fa963ddca39f
+      size: 305754
+    - path: config/schema_training.json
+      md5: 775cd83f08516bf34c5f77cc33e1a3a5
+      size: 927
+  transformation:
+    cmd: python src/trainingRawDataTransformation.py
+    deps:
+    - path: data/Training_Raw_files_validated/Good_raw/Mushroom_Data_23042021_023412.csv
+      md5: 2ebb73707899775df776fa963ddca39f
+      size: 305754
