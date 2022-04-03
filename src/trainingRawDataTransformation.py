@@ -1,8 +1,10 @@
+from email import header
 import os
 
 import pandas as pd
 import yaml
-from logging import Logger
+from performLogging import Logger
+import pathlib
 
 
 class RawTrainingDataTransformation:
@@ -21,8 +23,7 @@ class RawTrainingDataTransformation:
     """
 
     def __init__(self):
-        self.params = yaml.safe_load(
-            open(os.path.join("config", "params.yaml")))
+        pass
 
     def addingQuotesToStringColumns(self):
         """
@@ -39,14 +40,22 @@ class RawTrainingDataTransformation:
 
         """
 
-        path_for_log = self.params['TrainingLogs']['RawTrainingDataTransformation']
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['RawTrainingDataTransformation']
 
-        f = open(path_for_log, 'a+')
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
+
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
         try:
-            good_data_path = self.params['data_preparation']['good_validated_raw_dir']
+            good_data_path = params['data_preparation']['good_validated_raw_dir']
+            good_data_path = pathlib.Path(good_data_path)
 
             for file in os.listdir(good_data_path):
                 csv_file = pd.read_csv(os.path.join(good_data_path, file))
@@ -62,13 +71,14 @@ class RawTrainingDataTransformation:
                     good_data_path, file), index=None, header=True)
                 Logger().log(
                     f, 'Quotes added successfully to the values of columns having string values')
-            f.close()
 
         except Exception as e:
             Logger().log(
                 f, "Exception occurred while adding the quotes to the values in the columns having string values. Exception: " + str(e))
-            f.close()
             raise e
+
+        finally:
+            f.close()
 
     def removeHyphenFromColumnName(self):
         """
@@ -84,35 +94,43 @@ class RawTrainingDataTransformation:
         :return: None
 
         """
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        path_for_log = self.params['TrainingLogs']['RawTrainingDataTransformation']
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['RawTrainingDataTransformation']
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
 
-        f = open(path_for_log, 'a+')
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
         try:
-            good_data_path = self.params['data_preparation']['good_validated_raw_dir']
+            good_data_path = params['data_preparation']['good_validated_raw_dir']
+            good_data_path = pathlib.Path(good_data_path)
 
-            for file in os.listdir(good_data_path):
-                csv_file = pd.read_csv(os.path.join(good_data_path, file))
+            for file in os.listdir(good_data_path): 
+                if file.split('.')[-1] == "csv":
+                    csv_file = pd.read_csv(os.path.join(good_data_path, file))
 
-                columns = csv_file.columns
+                    columns = csv_file.columns
 
-                for column in columns:
-                    if '-' in str(column):
-                        new_column = column.replace('-', '_')
-                        csv_file.rename(
-                            columns={column: new_column}, inplace=True)
-                Logger().log(
-                    f, "Removed the hyphens from the column names successfully")
-
-            f.close()
+                    for column in columns:
+                        if '-' in str(column):
+                            new_column = column.replace('-','_')
+                            csv_file.rename(columns={column:new_column},inplace=True)
+                    csv_file.to_csv(os.path.join(good_data_path,file),header=True,index=None)
+                    Logger().log(
+                        f, "Removed the hyphens from the column names successfully")
         except Exception as e:
             Logger().log(
                 f, "Exception occurred while removing the hyphens from the column names. Exception: "+str(e))
-            f.close()
             raise e
+
+        finally:
+            f.close()
 
 
 if __name__ == '__main__':

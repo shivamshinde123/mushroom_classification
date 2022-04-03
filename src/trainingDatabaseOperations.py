@@ -4,8 +4,9 @@ import shutil
 import sqlite3
 from telnetlib import EC
 import yaml
-from logging import Logger
-
+from performLogging import Logger
+import pathlib
+import json
 
 class DBOperations:
 
@@ -18,8 +19,7 @@ class DBOperations:
     """
 
     def __init__(self):
-        self.params = yaml.safe_load(
-            open(os.path.join("config", "params.yaml")))
+        pass
 
     def dbConnection(self):
         """
@@ -36,30 +36,40 @@ class DBOperations:
         :return: Databases connector
 
         """
-        path_for_log = self.params['TrainingLogs']['databaseLogs']
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        f = open(path_for_log, 'a+')
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['databaseLogs']
+
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
+
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
         try:
-            database_path = self.params['data_preparation']['training_db_dir']
-            database_name = self.params['data_preparation']['training_db']
+            database_path = params['data_preparation']['training_db_dir']
+            database_name = params['data_preparation']['training_db']
 
             if not os.path.exists(database_path):
-                os.makedirs(self.path)
+                os.makedirs(database_path)
 
             conn = sqlite3.connect(os.path.join(database_path, database_name))
             Logger().log(
                 f, f"Connection with the database {database_name} made")
-            f.close()
             return conn
 
         except ConnectionError as ce:
             Logger().log(
                 f, f"Connection error occurred while creating a connection to the database. Error: {str(ce)}")
-            f.close()
             raise ce
+        
+        finally:
+            f.close()
+
 
     def createTableIntoDb(self, columnNamesDict):
         """
@@ -82,50 +92,101 @@ class DBOperations:
 
         """
 
-        path_for_log = self.params['TrainingLogs']['databaseLogs']
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['databaseLogs']
 
-        f = open(path_for_log, 'a+')
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
+
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
 
         conn = self.dbConnection()
         cursor = conn.cursor()
 
-        cursor.execute(
-            ''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='goodRawData' ''')
+        table_name = params['data_preparation']['table_name']
 
-        try:
-            if cursor.fetchone()[0] == 1:
-                Logger().log(f, "Table named goodRawData created in the database goodRawDataDb")
-                f.close()
-                conn.close()
+        cursor.execute(f"DROP TABLE IF EXISTS {table_name}")
 
-            else:
-                for key in columnNamesDict.keys():
-                    datatype = columnNamesDict[key]
+        try:            
+            for key in columnNamesDict.keys():
+                datatype = columnNamesDict[key]
 
-                    # Here in try block we check if the table is existed or not and if it is then add the columns to it
-                    # In catch block, we will create a table
-                    try:
-                        command = f"""ALTER TABLE goodRawData ADD {key} {datatype}"""
-                        cursor.execute(command)
-                    except:
-                        command = f"""CREATE TABLE goodRawData ({key} {datatype})"""
-                        cursor.execute(command)
+                # Here in try block we check if the table is existed or not and if it is then add the columns to it
+                # In catch block, we will create a table
+                try:
+                    command = f"""ALTER TABLE {table_name} ADD {key} {datatype}"""
+                    cursor.execute(command)
+                except:
+                    command = f"""CREATE TABLE IF NOT EXISTS {table_name} ({key} {datatype})"""
+                    cursor.execute(command)
 
-                conn.commit()
-                Logger().log(f, "Table named goodRawData created successfully in the database")
-                f.close()
-                conn.close()
+            conn.commit()
+            Logger().log(f, f"Table named {table_name} created successfully in the database")
+            conn.close()
 
         except Exception as e:
             Logger().log(
                 f, f"Exception occurred while creating the table inside the database. Exception: {str(e)}")
-            f.close()
             conn.close()
             raise e
 
+        finally:
+            f.close()
+
+    
+    def deleteDB(self):
+
+        """
+        Description: This method is used to delete the table from the database
+        On Failure: Raises exception
+        Written By: Shivam Shinde
+        Version: 1.0
+        Revision: None
+        :return: None
+        """
+
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
+
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['databaseLogs']
+
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
+
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
+
+        conn = self.dbConnection()
+        cursor = conn.cursor()
+
+        try:
+            db_dir = params['data_preparation']['training_db_dir']
+            db_name = params['data_preparation']['training_db']
+
+            db_path = os.path.join(db_dir,db_name)
+            db_path = pathlib.Path(db_path)
+
+            query = f"DROP DATABASE {db_path}"
+
+            cursor.execute(query)
+
+        except Exception as e:
+            conn.rollback()
+            Logger().log(f, f"Exception occured while deletingthe database. Exception: {str(e)}")
+
+        finally:
+            f.close()
+
+            
     def insertGoodDataIntoTable(self):
         """
 
@@ -139,18 +200,27 @@ class DBOperations:
 
         """
 
-        path_for_log = self.params['TrainingLogs']['databaseLogs']
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['databaseLogs']
 
-        f = open(path_for_log, 'a+')
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
+
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
 
         conn = self.dbConnection()
         cursor = conn.cursor()
 
-        good_data_path = self.params['data_preparation']['good_validated_raw_dir']
-        bad_data_path = self.params['data_preparation']['bad_validated_raw_dir']
+        good_data_path = params['data_preparation']['good_validated_raw_dir']
+        bad_data_path = params['data_preparation']['bad_validated_raw_dir']
+
+        table_name = params['data_preparation']['table_name']
 
         for file in os.listdir(good_data_path):
             try:
@@ -164,7 +234,7 @@ class DBOperations:
                         for list_ in line[1]:
                             try:
                                 cursor.execute(
-                                    f"INSERT INTO goodRawData values ({list_})")
+                                    f"INSERT INTO {table_name} values ({list_})")
                                 conn.commit()
                             except Exception as e:
                                 raise e
@@ -175,12 +245,13 @@ class DBOperations:
                 shutil.move(filepath, bad_data_path)
                 Logger().log(
                     f, f"Error occurred while inserting the data into the table. Exception: {str(e)}")
-                f.close()
-                conn.close()
                 raise e
 
-            f.close()
-            conn.close()
+            
+            finally:
+                f.close()
+                conn.close()
+
 
     def getDataFromDbTableIntoCSV(self):
         """
@@ -193,21 +264,30 @@ class DBOperations:
         :return: None
 
         """
-        path_for_log = self.params['TrainingLogs']['databaseLogs']
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
 
-        if not os.path.exists(path_for_log):
-            os.makedirs(path_for_log)
+        main_log_dir = params['TrainingLogs']['main_log_dir']
+        filename = params['TrainingLogs']['databaseLogs']
 
-        f = open(path_for_log, 'a+')
+        if not os.path.exists(main_log_dir):
+            os.makedirs(main_log_dir)
 
-        path_of_fileFromDb = self.params['data_preparation']['Training_FileFromDB']
-        filename = self.params['data_preparation']['master_csv']
+        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = pathlib.Path(whole_path)
+
+        f = open(whole_path, 'a+')
+
+        path_of_fileFromDb = params['data_preparation']['Training_FileFromDB']
+        filename = params['data_preparation']['master_csv']
+
+        table_name = params['data_preparation']['table_name']
 
         try:
             conn = self.dbConnection()
             cursor = conn.cursor()
 
-            query = "SELECT * FROM goodRawData"
+            query = f"SELECT * FROM {table_name}"
             cursor.execute(query)
 
             results = cursor.fetchall()
@@ -227,14 +307,15 @@ class DBOperations:
             csvfile.writerows(results)
 
             Logger().log(f, "File exported successfully!!")
-            f.close()
             conn.close()
 
         except Exception as e:
             Logger().log(
                 f, f"Exception occurred while exporting the data file from the database. Exception: {str(e)}")
-            f.close()
             raise e
+        
+        finally:
+            f.close()
 
 
 
@@ -244,8 +325,21 @@ if __name__ == '__main__':
         # creating a object of a class 
         obj = DBOperations()
 
+        # deleting the previously created table from the database
+        obj.deleteDB()
+
+        # getting the dictonary containing the name and datatypes of the columns
+        with open(os.path.join("config", "params.yaml")) as p:
+            params = yaml.safe_load(p)
+        
+        schema_training_path = params['data_preparation']['schema_training']
+
+        with open(schema_training_path, "r") as k:
+            json_file = json.load(k)
+            name_dtype_dict = json_file['ColumnNames']
+
         # creating a database and the creating a table into it
-        obj.createTableIntoDb()
+        obj.createTableIntoDb(name_dtype_dict)
 
         # adding the data from the file from good data foler into the database
         obj.insertGoodDataIntoTable()
