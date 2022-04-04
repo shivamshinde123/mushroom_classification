@@ -40,12 +40,12 @@ class modelMethods:
             params = yaml.safe_load(p)
 
         main_log_dir = params['TrainingLogs']['main_log_dir']
-        filename = params['TrainingLogs']['model_methods']
+        log_filename = params['TrainingLogs']['model_methods']
 
         if not os.path.exists(main_log_dir):
             os.makedirs(main_log_dir)
 
-        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = os.path.join(main_log_dir, log_filename)
         whole_path = pathlib.Path(whole_path)
 
         f = open(whole_path, 'a+')
@@ -99,12 +99,12 @@ class modelMethods:
             params = yaml.safe_load(p)
 
         main_log_dir = params['TrainingLogs']['main_log_dir']
-        filename = params['TrainingLogs']['model_methods']
+        log_filename = params['TrainingLogs']['model_methods']
 
         if not os.path.exists(main_log_dir):
             os.makedirs(main_log_dir)
 
-        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = os.path.join(main_log_dir, log_filename)
         whole_path = pathlib.Path(whole_path)
 
         f = open(whole_path, 'a+')
@@ -154,12 +154,12 @@ class modelMethods:
             params = yaml.safe_load(p)
 
         main_log_dir = params['TrainingLogs']['main_log_dir']
-        filename = params['TrainingLogs']['model_methods']
+        log_filename = params['TrainingLogs']['model_methods']
 
         if not os.path.exists(main_log_dir):
             os.makedirs(main_log_dir)
 
-        whole_path = os.path.join(main_log_dir, filename)
+        whole_path = os.path.join(main_log_dir, log_filename)
         whole_path = pathlib.Path(whole_path)
 
         f = open(whole_path, 'a+')
