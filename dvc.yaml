@@ -22,4 +22,14 @@ stages:
     outs:
     - data/preprocessed_data/trainingPreprocessedData.csv
 
-    
+  model_training:
+    cmd: python src/modeltraining.py
+    deps:
+    - data/preprocessed_data/trainingPreprocessedData.csv
+    - src/clustering.py
+    - src/model_methods.py
+    - src/modeltuner.py
+    - src/performLogging.py
+    outs:
+    - models
+

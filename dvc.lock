@@ -31,3 +31,26 @@ stages:
     - path: data/preprocessed_data/trainingPreprocessedData.csv
       md5: 6a0b486f8322e06623758b8b2547ef8e
       size: 605728
+  model_training:
+    cmd: python src/modeltraining.py
+    deps:
+    - path: data/preprocessed_data/trainingPreprocessedData.csv
+      md5: 6a0b486f8322e06623758b8b2547ef8e
+      size: 605728
+    - path: src/clustering.py
+      md5: 2a462735915bbfcbe435bd09531022c1
+      size: 4592
+    - path: src/model_methods.py
+      md5: 54dee8f27f250e06da12d3a0a479e135
+      size: 6128
+    - path: src/modeltuner.py
+      md5: 96ee9691197a40ff2f1fc0439bea0db6
+      size: 30609
+    - path: src/performLogging.py
+      md5: b203ac5be3fbab337da38ab140ad5ff9
+      size: 865
+    outs:
+    - path: models
+      md5: fd3b5d6ee0756bd4ce239c71e390bc6f.dir
+      size: 8172221
+      nfiles: 6
