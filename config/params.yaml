@@ -29,6 +29,9 @@ TrainingLogs:
   databaseLogs: DatabaseLogs.txt
   preprocessingLogs: preprocessingLogs.txt
   model_methods: modelMethodsLogs.txt
+  clustering: clusteringLogs.txt
+  bestModelFinding: bestModelFindingLogs.txt
+  trainingModel: ModelTraining.txt
 
 pred_data_preparation:
   prediction_db: Prediction.db
@@ -74,40 +77,37 @@ artifacts_dir:
 
 
 training:
+
+  test_size: 0.3
+
+  clusteringColumnName: ClusterNumber
+
   svc:
     cv: 5
     verbose: True
-    param_grid: {"C": [0.001, 0.01, 0.1, 0.5, 1.0], "kernel": ["linear", "poly", "rbf"]}
+    param_grid: {C: [0.001, 0.01, 0.1, 0.5, 1.0], kernel: ["linear", "poly", "rbf"]}
+
   knn:
     cv: 5
-    n_jobs: -1
-    param_grid: {"n_neighbors": [3, 4, 5, 6, 6], "weights": ["uniform", "distance"]}
-  logistic_r: 
-    cv: 5
-    n_jobs: -1
-    max_iter: 2500
-    param_grid: {"penalty": ["l1", "l2", "elasticnet", "none"], "C": [0.001, 0.01, 0.1, 0.5, 1.0]}
+    param_grid: {n_neighbors: [3, 4, 5, 6, 6], weights: ["uniform", "distance"]}
+
   random_forest:
     cv: 5
     verbose: 3
-    param_grid: {"n_estimators":[10,50,100,130], "Criterion":["gini","entropy"], "max_depth": [2,4], "max_features":["auto","log2"]}
+    param_grid: {n_estimators: [10,50,100,130], max_depth: [2,3], max_features: ["auto","log2"]}
+
   xg_boost:
     cv: 5
     verbose: 3
-    param_grid: {"learning_rate": [0.001, 0.01, 0.1, 0.5], "max_depth": [2,3,4], "n_estimators": [10,50,100,200]}
+    param_grid: {learning_rate: [0.001, 0.01, 0.1, 0.5], max_depth: [2,3,4], n_estimators: [10,50,100,200]}
+
   ada_boost:
     cv: 5
-    base_estimator:
-      random_forest:
-        n_estimators: 200
-    param_grid: {"n_estimators": [50, 100, 200, 500], "learning_rate": [0.001, 0.01, 0.1, 0.5, 1.0]}
+    param_grid: {n_estimators: [50, 100, 200, 500], learning_rate: [0.001, 0.01, 0.1, 0.5, 1.0]}
+
   gradient_boost:
     cv: 5
     verbose: 3
-    param_grid: {"n_estimators": [50, 100, 200, 500], "learning_rate": [0.001, 0.01, 0.1, 0.5, 1.0]}
-  voting_classifier:
-    cv: 5
-    verbose: True
-    estimators: [('clf1',RandomForestClassifer()), ("clf2", XGBClassifier()), ('clf3', GradientBoostingClassifier())]
-    voting: ["hard", "soft"]
+    param_grid: {n_estimators: [50, 100, 200, 500], learning_rate: [0.001, 0.01, 0.1, 0.5, 1.0]}
+
 
