@@ -1,0 +1,200 @@
+2022-04-04 / 01:53:22  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 01:53:22  ----->  Getting training preprocessed data.
+2022-04-04 / 01:53:22  ----->  Got training preprocessed data
+2022-04-04 / 01:53:22  ----->  Training_Clustering of the data started!!
+2022-04-04 / 01:53:25  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 01:53:25  ----->  *************for the cluster number 2**************
+2022-04-04 / 01:53:25  ----->  Exception occurred while training the machine learning model. Exception: "['Price'] not found in axis"
+2022-04-04 / 01:55:28  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 01:55:28  ----->  Getting training preprocessed data.
+2022-04-04 / 01:55:28  ----->  Got training preprocessed data
+2022-04-04 / 01:55:28  ----->  Training_Clustering of the data started!!
+2022-04-04 / 01:55:31  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 01:55:31  ----->  *************for the cluster number 2**************
+2022-04-04 / 01:55:31  ----->  Finding the best model for the cluster 2
+2022-04-04 / 01:55:39  ----->  Exception occurred while training the machine learning model. Exception: Parameter grid for parameter (boostrap) needs to be a list or numpy array, but got (<class 'bool'>). Single values need to be wrapped in a list with one element.
+2022-04-04 / 01:59:31  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 01:59:31  ----->  Getting training preprocessed data.
+2022-04-04 / 01:59:31  ----->  Got training preprocessed data
+2022-04-04 / 01:59:31  ----->  Training_Clustering of the data started!!
+2022-04-04 / 01:59:33  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 01:59:33  ----->  *************for the cluster number 2**************
+2022-04-04 / 01:59:33  ----->  Finding the best model for the cluster 2
+2022-04-04 / 01:59:40  ----->  Exception occurred while training the machine learning model. Exception: Invalid parameter Criterion for estimator RandomForestClassifier(). Check the list of available parameters with `estimator.get_params().keys()`.
+2022-04-04 / 02:04:04  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 02:04:04  ----->  Getting training preprocessed data.
+2022-04-04 / 02:04:04  ----->  Got training preprocessed data
+2022-04-04 / 02:04:04  ----->  Training_Clustering of the data started!!
+2022-04-04 / 02:04:06  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 02:04:06  ----->  *************for the cluster number 2**************
+2022-04-04 / 02:04:06  ----->  Finding the best model for the cluster 2
+2022-04-04 / 02:04:29  ----->  Exception occurred while training the machine learning model. Exception: 'modelTuner' object has no attribute 'file_obj'
+2022-04-04 / 02:10:44  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 02:10:44  ----->  Getting training preprocessed data.
+2022-04-04 / 02:10:44  ----->  Got training preprocessed data
+2022-04-04 / 02:10:44  ----->  Training_Clustering of the data started!!
+2022-04-04 / 02:10:47  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 02:10:47  ----->  *************for the cluster number 2**************
+2022-04-04 / 02:10:47  ----->  Finding the best model for the cluster 2
+2022-04-04 / 02:14:25  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 02:14:25  ----->  *************for the cluster number 3**************
+2022-04-04 / 02:14:25  ----->  Finding the best model for the cluster 3
+2022-04-04 / 02:14:25  ----->  Exception occurred while training the machine learning model. Exception: Run with UUID e6a831d5bf2e49328174ae57d610cd4c is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 10:43:04  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 10:43:04  ----->  Getting training preprocessed data.
+2022-04-04 / 10:43:04  ----->  Got training preprocessed data
+2022-04-04 / 10:43:04  ----->  Training_Clustering of the data started!!
+2022-04-04 / 10:43:06  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 10:43:06  ----->  *************for the cluster number 2**************
+2022-04-04 / 10:43:06  ----->  Finding the best model for the cluster 2
+2022-04-04 / 10:46:21  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 10:46:21  ----->  *************for the cluster number 3**************
+2022-04-04 / 10:46:21  ----->  Finding the best model for the cluster 3
+2022-04-04 / 10:46:21  ----->  Exception occurred while training the machine learning model. Exception: Run with UUID 7507cc053a044d0d8da85fd26e3183ea is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 10:48:17  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 10:48:17  ----->  Getting training preprocessed data.
+2022-04-04 / 10:48:17  ----->  Got training preprocessed data
+2022-04-04 / 10:48:17  ----->  Training_Clustering of the data started!!
+2022-04-04 / 10:48:19  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 10:48:19  ----->  *************for the cluster number 2**************
+2022-04-04 / 10:48:19  ----->  Finding the best model for the cluster 2
+2022-04-04 / 10:51:09  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 10:51:09  ----->  *************for the cluster number 3**************
+2022-04-04 / 10:51:09  ----->  Finding the best model for the cluster 3
+2022-04-04 / 10:51:09  ----->  Exception occurred while training the machine learning model. Exception: Run with UUID c18e70f4c9e1496d93b5ded6a607979f is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 12:07:00  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:07:00  ----->  Getting training preprocessed data.
+2022-04-04 / 12:07:00  ----->  Got training preprocessed data
+2022-04-04 / 12:07:00  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:07:03  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:07:03  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:07:03  ----->  Finding the best model for the cluster 2
+2022-04-04 / 12:11:28  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 12:11:28  ----->  *************for the cluster number 3**************
+2022-04-04 / 12:11:28  ----->  Finding the best model for the cluster 3
+2022-04-04 / 12:11:29  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:17:01  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:17:01  ----->  Getting training preprocessed data.
+2022-04-04 / 12:17:01  ----->  Got training preprocessed data
+2022-04-04 / 12:17:01  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:17:03  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:17:03  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:17:03  ----->  Exception occurred while training the machine learning model. Exception: Found input variables with inconsistent numbers of samples: [2163, 6499]
+2022-04-04 / 12:18:50  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:18:50  ----->  Getting training preprocessed data.
+2022-04-04 / 12:18:50  ----->  Got training preprocessed data
+2022-04-04 / 12:18:50  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:18:52  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:18:52  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:18:52  ----->  Finding the best model for the cluster 2
+2022-04-04 / 12:24:58  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 12:24:58  ----->  *************for the cluster number 3**************
+2022-04-04 / 12:24:58  ----->  Finding the best model for the cluster 3
+2022-04-04 / 12:24:58  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:26:47  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:26:47  ----->  Getting training preprocessed data.
+2022-04-04 / 12:26:47  ----->  Got training preprocessed data
+2022-04-04 / 12:26:47  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:26:49  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:26:49  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:26:49  ----->  Finding the best model for the cluster 2
+2022-04-04 / 12:33:17  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 12:33:17  ----->  *************for the cluster number 3**************
+2022-04-04 / 12:33:17  ----->  Finding the best model for the cluster 3
+2022-04-04 / 12:33:18  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:40:38  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:40:38  ----->  Getting training preprocessed data.
+2022-04-04 / 12:40:38  ----->  Got training preprocessed data
+2022-04-04 / 12:40:38  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:40:40  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:40:40  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:40:40  ----->  Finding the best model for the cluster 2
+2022-04-04 / 12:45:39  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 12:45:39  ----->  *************for the cluster number 3**************
+2022-04-04 / 12:45:39  ----->  Finding the best model for the cluster 3
+2022-04-04 / 12:45:40  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:47:31  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 12:47:31  ----->  Getting training preprocessed data.
+2022-04-04 / 12:47:31  ----->  Got training preprocessed data
+2022-04-04 / 12:47:31  ----->  Training_Clustering of the data started!!
+2022-04-04 / 12:47:33  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 12:47:33  ----->  *************for the cluster number 2**************
+2022-04-04 / 12:47:33  ----->  Finding the best model for the cluster 2
+2022-04-04 / 12:56:54  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 12:56:54  ----->  *************for the cluster number 3**************
+2022-04-04 / 12:56:54  ----->  Finding the best model for the cluster 3
+2022-04-04 / 12:56:55  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 13:18:30  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 13:18:30  ----->  Getting training preprocessed data.
+2022-04-04 / 13:18:30  ----->  Got training preprocessed data
+2022-04-04 / 13:18:30  ----->  Training_Clustering of the data started!!
+2022-04-04 / 13:18:32  ----->  Exception occurred while training the machine learning model. Exception: 'Series' object has no attribute 'reshape'
+2022-04-04 / 13:19:14  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-04 / 13:19:14  ----->  Getting training preprocessed data.
+2022-04-04 / 13:19:14  ----->  Got training preprocessed data
+2022-04-04 / 13:19:14  ----->  Training_Clustering of the data started!!
+2022-04-04 / 13:19:16  ----->  Training_Clustering of the data completed!!
+2022-04-04 / 13:19:16  ----->  *************for the cluster number 2**************
+2022-04-04 / 13:19:16  ----->  Finding the best model for the cluster 2
+2022-04-04 / 13:22:35  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-04 / 13:22:35  ----->  *************for the cluster number 3**************
+2022-04-04 / 13:22:35  ----->  Finding the best model for the cluster 3
+2022-04-04 / 13:22:35  ----->  Exception occurred while training the machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-05 / 00:12:30  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-05 / 00:12:30  ----->  Getting training preprocessed data.
+2022-04-05 / 00:12:30  ----->  Got training preprocessed data
+2022-04-05 / 00:12:30  ----->  Training_Clustering of the data started!!
+2022-04-05 / 00:12:32  ----->  Training_Clustering of the data completed!!
+2022-04-05 / 00:12:32  ----->  *************for the cluster number 2**************
+2022-04-05 / 00:12:32  ----->  Finding the best model for the cluster 2
+2022-04-05 / 00:12:32  ----->  Exception occurred while training the machine learning model. Exception: 'Series' object has no attribute 'reshape'
+2022-04-05 / 00:14:01  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-05 / 00:14:01  ----->  Getting training preprocessed data.
+2022-04-05 / 00:14:01  ----->  Got training preprocessed data
+2022-04-05 / 00:14:01  ----->  Training_Clustering of the data started!!
+2022-04-05 / 00:14:04  ----->  Training_Clustering of the data completed!!
+2022-04-05 / 00:14:04  ----->  *************for the cluster number 2**************
+2022-04-05 / 00:14:04  ----->  Finding the best model for the cluster 2
+2022-04-05 / 00:14:04  ----->  Exception occurred while training the machine learning model. Exception: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-04-05 / 00:29:13  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-05 / 00:29:13  ----->  Getting training preprocessed data.
+2022-04-05 / 00:29:13  ----->  Got training preprocessed data
+2022-04-05 / 00:29:13  ----->  Training_Clustering of the data started!!
+2022-04-05 / 00:29:16  ----->  Training_Clustering of the data completed!!
+2022-04-05 / 00:29:16  ----->  *************for the cluster number 2**************
+2022-04-05 / 00:29:16  ----->  Finding the best model for the cluster 2
+2022-04-05 / 00:33:48  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-05 / 00:33:48  ----->  *************for the cluster number 3**************
+2022-04-05 / 00:33:48  ----->  Finding the best model for the cluster 3
+2022-04-05 / 00:33:48  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-05 / 00:33:48  ----->  *************for the cluster number 0**************
+2022-04-05 / 00:33:48  ----->  Finding the best model for the cluster 0
+2022-04-05 / 00:35:58  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-05 / 00:35:58  ----->  *************for the cluster number 4**************
+2022-04-05 / 00:35:58  ----->  Finding the best model for the cluster 4
+2022-04-05 / 00:40:03  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-05 / 00:40:03  ----->  *************for the cluster number 1**************
+2022-04-05 / 00:40:03  ----->  Finding the best model for the cluster 1
+2022-04-05 / 00:46:50  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-05 / 00:46:50  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
+2022-04-05 / 00:51:02  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-05 / 00:51:02  ----->  Getting training preprocessed data.
+2022-04-05 / 00:51:02  ----->  Got training preprocessed data
+2022-04-05 / 00:51:02  ----->  Training_Clustering of the data started!!
+2022-04-05 / 00:51:05  ----->  Training_Clustering of the data completed!!
+2022-04-05 / 00:51:05  ----->  *************for the cluster number 2**************
+2022-04-05 / 00:51:05  ----->  Finding the best model for the cluster 2
+2022-04-05 / 00:54:35  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-05 / 00:54:35  ----->  *************for the cluster number 3**************
+2022-04-05 / 00:54:35  ----->  Finding the best model for the cluster 3
+2022-04-05 / 00:54:35  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-05 / 00:54:35  ----->  *************for the cluster number 0**************
+2022-04-05 / 00:54:35  ----->  Finding the best model for the cluster 0
+2022-04-05 / 01:00:24  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-05 / 01:00:24  ----->  *************for the cluster number 4**************
+2022-04-05 / 01:00:24  ----->  Finding the best model for the cluster 4
+2022-04-05 / 01:05:10  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-05 / 01:05:10  ----->  *************for the cluster number 1**************
+2022-04-05 / 01:05:10  ----->  Finding the best model for the cluster 1
+2022-04-05 / 01:07:22  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-05 / 01:07:22  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************

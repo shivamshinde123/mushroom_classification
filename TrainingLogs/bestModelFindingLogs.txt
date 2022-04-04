@@ -1,0 +1,879 @@
+2022-04-04 / 01:55:31  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 01:55:37  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 01:55:39  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 01:55:39  ----->  Exception occurred while tuning the random forest classifier. Exception: Parameter grid for parameter (boostrap) needs to be a list or numpy array, but got (<class 'bool'>). Single values need to be wrapped in a list with one element.
+2022-04-04 / 01:55:31  ----->  *********finding best model for cluster************
+2022-04-04 / 01:55:37  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 01:55:37  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 01:55:37  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 01:55:37  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 01:55:38  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:55:38  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:55:38  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:55:38  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:55:39  ----->  Exception occurred while finding the best machine learning model. Exception: Parameter grid for parameter (boostrap) needs to be a list or numpy array, but got (<class 'bool'>). Single values need to be wrapped in a list with one element.
+2022-04-04 / 01:59:33  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 01:59:39  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 01:59:40  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 01:59:40  ----->  Exception occurred while tuning the random forest classifier. Exception: Invalid parameter Criterion for estimator RandomForestClassifier(). Check the list of available parameters with `estimator.get_params().keys()`.
+2022-04-04 / 01:59:33  ----->  *********finding best model for cluster************
+2022-04-04 / 01:59:39  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 01:59:39  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 01:59:39  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 01:59:39  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 01:59:40  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:59:40  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:59:40  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:59:40  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 01:59:40  ----->  Exception occurred while finding the best machine learning model. Exception: Invalid parameter Criterion for estimator RandomForestClassifier(). Check the list of available parameters with `estimator.get_params().keys()`.
+2022-04-04 / 02:04:06  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 02:04:12  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 02:04:13  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 02:04:20  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 02:04:06  ----->  *********finding best model for cluster************
+2022-04-04 / 02:04:12  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 02:04:12  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 02:04:12  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 02:04:12  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 02:04:13  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:04:13  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:04:13  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:04:13  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:04:19  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 02:04:19  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 02:04:19  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 02:04:19  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 02:04:29  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:04:29  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:04:29  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:04:29  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:04:29  ----->  Exception occurred while finding the best machine learning model. Exception: 'modelTuner' object has no attribute 'file_obj'
+2022-04-04 / 02:10:47  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 02:10:55  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 02:10:55  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 02:11:01  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 02:11:39  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 02:11:59  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 02:12:16  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 02:11:59  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 02:12:45  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 02:13:06  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 02:12:45  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 02:13:36  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 02:13:51  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 02:10:47  ----->  *********finding best model for cluster************
+2022-04-04 / 02:10:55  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 02:10:55  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 02:10:55  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 02:10:55  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 02:10:55  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:10:55  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:10:55  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:10:55  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 02:11:01  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 02:11:01  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 02:11:01  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 02:11:01  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 02:11:10  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:11:10  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:11:10  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:11:10  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 02:11:39  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 02:11:39  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 02:11:39  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 02:11:39  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 02:11:59  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 02:11:59  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 02:11:59  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 02:11:59  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 02:12:45  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 02:12:45  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 02:12:45  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 02:12:45  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 02:14:25  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 02:14:25  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 02:14:25  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 02:14:25  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 02:14:25  ----->  *********found the best model for cluster************
+2022-04-04 / 02:14:25  ----->  *********finding best model for cluster************
+2022-04-04 / 02:14:25  ----->  Exception occurred while finding the best machine learning model. Exception: Run with UUID e6a831d5bf2e49328174ae57d610cd4c is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 10:43:06  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 10:43:13  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 10:43:14  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 10:43:21  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:43:55  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:44:12  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:44:27  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:44:12  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 10:44:53  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:45:10  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:44:53  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 10:45:36  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:45:50  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 10:43:06  ----->  *********finding best model for cluster************
+2022-04-04 / 10:43:13  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 10:43:13  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 10:43:13  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 10:43:13  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 10:43:14  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:43:14  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:43:14  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:43:14  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:43:21  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 10:43:21  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 10:43:21  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 10:43:21  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 10:43:32  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:43:32  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:43:32  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:43:32  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:43:55  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 10:43:55  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 10:43:55  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 10:43:55  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 10:44:12  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 10:44:12  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 10:44:12  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 10:44:12  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 10:44:53  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 10:44:53  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 10:44:53  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 10:44:53  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 10:46:21  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 10:46:21  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 10:46:21  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 10:46:21  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 10:46:21  ----->  *********found the best model for cluster************
+2022-04-04 / 10:46:21  ----->  *********finding best model for cluster************
+2022-04-04 / 10:46:21  ----->  Exception occurred while finding the best machine learning model. Exception: Run with UUID 7507cc053a044d0d8da85fd26e3183ea is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 10:48:20  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 10:48:26  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 10:48:27  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 10:48:33  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:49:02  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:49:18  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:49:37  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:49:18  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 10:49:56  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:50:11  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 10:49:56  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 10:50:32  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 10:50:45  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 10:48:19  ----->  *********finding best model for cluster************
+2022-04-04 / 10:48:26  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 10:48:26  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 10:48:26  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 10:48:26  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 10:48:27  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:48:27  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:48:27  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:48:27  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 10:48:33  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 10:48:33  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 10:48:33  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 10:48:33  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 10:48:41  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:48:41  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:48:41  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:48:41  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 10:49:02  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 10:49:02  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 10:49:02  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 10:49:02  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 10:49:18  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 10:49:18  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 10:49:18  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 10:49:18  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 10:49:56  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 10:49:56  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 10:49:56  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 10:49:56  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 10:51:09  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 10:51:09  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 10:51:09  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 10:51:09  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 10:51:09  ----->  *********found the best model for cluster************
+2022-04-04 / 10:51:09  ----->  *********finding best model for cluster************
+2022-04-04 / 10:51:09  ----->  Exception occurred while finding the best machine learning model. Exception: Run with UUID c18e70f4c9e1496d93b5ded6a607979f is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2022-04-04 / 12:07:03  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:07:10  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 12:07:11  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:07:18  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:07:46  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:07:59  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:08:32  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:07:59  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:08:57  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:09:12  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:08:57  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:09:29  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:09:41  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:07:03  ----->  *********finding best model for cluster************
+2022-04-04 / 12:07:09  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 12:07:09  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 12:07:09  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 12:07:09  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 12:07:10  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:07:10  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:07:10  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:07:10  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:07:17  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 12:07:17  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 12:07:17  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 12:07:17  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 12:07:28  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:07:28  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:07:28  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:07:28  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:07:46  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 12:07:46  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 12:07:46  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 12:07:46  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 12:07:58  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 12:07:58  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 12:07:58  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 12:07:58  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 12:08:57  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 12:08:57  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 12:08:57  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 12:08:57  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 12:11:28  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 12:11:28  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 12:11:28  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 12:11:28  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 12:11:28  ----->  *********found the best model for cluster************
+2022-04-04 / 12:11:29  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:11:29  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:11:28  ----->  *********finding best model for cluster************
+2022-04-04 / 12:11:29  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:18:53  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:18:59  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 12:19:00  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:19:06  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:19:44  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:20:05  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:21:20  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:20:05  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:21:42  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:22:01  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:21:42  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:23:24  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:23:40  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:18:52  ----->  *********finding best model for cluster************
+2022-04-04 / 12:18:59  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 12:18:59  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 12:18:59  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 12:18:59  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 12:19:00  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:19:00  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:19:00  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:19:00  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:19:05  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 12:19:05  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 12:19:05  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 12:19:05  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 12:19:15  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:19:15  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:19:15  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:19:15  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:19:44  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 12:19:44  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 12:19:44  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 12:19:44  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 12:20:05  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 12:20:05  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 12:20:05  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 12:20:05  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 12:21:42  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 12:21:42  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 12:21:42  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 12:21:42  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 12:24:57  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 12:24:57  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 12:24:57  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 12:24:57  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 12:24:57  ----->  *********found the best model for cluster************
+2022-04-04 / 12:24:58  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:24:58  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:24:58  ----->  *********finding best model for cluster************
+2022-04-04 / 12:24:58  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:26:50  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:26:55  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 12:26:56  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:27:00  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:27:35  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:27:53  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:29:14  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:27:53  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:30:33  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:30:52  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:30:33  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:31:48  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:32:03  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:26:49  ----->  *********finding best model for cluster************
+2022-04-04 / 12:26:55  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 12:26:55  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 12:26:55  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 12:26:55  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 12:26:55  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:26:55  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:26:55  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:26:55  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:27:00  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 12:27:00  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 12:27:00  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 12:27:00  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 12:27:13  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:27:13  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:27:13  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:27:13  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:27:35  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 12:27:35  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 12:27:35  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 12:27:35  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 12:27:52  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 12:27:52  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 12:27:52  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 12:27:52  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 12:30:33  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 12:30:33  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 12:30:33  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 12:30:33  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 12:33:16  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 12:33:16  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 12:33:16  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 12:33:16  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 12:33:16  ----->  *********found the best model for cluster************
+2022-04-04 / 12:33:18  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:33:18  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:33:17  ----->  *********finding best model for cluster************
+2022-04-04 / 12:33:18  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:40:41  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:40:47  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 12:40:48  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:40:54  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:41:32  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:41:53  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:42:18  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:41:53  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:42:48  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:43:09  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:42:48  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:44:17  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:44:36  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:40:40  ----->  *********finding best model for cluster************
+2022-04-04 / 12:40:47  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 12:40:47  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 12:40:47  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 12:40:47  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 12:40:48  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:40:48  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:40:48  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:40:48  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:40:54  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 12:40:54  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 12:40:54  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 12:40:54  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 12:41:09  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:41:09  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:41:09  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:41:09  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:41:32  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 12:41:32  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 12:41:32  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 12:41:32  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 12:41:52  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 12:41:52  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 12:41:52  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 12:41:52  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 12:42:48  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 12:42:48  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 12:42:48  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 12:42:48  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 12:45:38  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 12:45:38  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 12:45:38  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 12:45:38  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 12:45:38  ----->  *********found the best model for cluster************
+2022-04-04 / 12:45:39  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:45:40  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:45:39  ----->  *********finding best model for cluster************
+2022-04-04 / 12:45:40  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:47:34  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:47:41  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 12:47:42  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:47:48  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:49:30  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:49:48  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:53:50  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:49:48  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:54:12  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:54:32  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 12:54:12  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 12:56:11  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 12:56:25  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 12:47:33  ----->  *********finding best model for cluster************
+2022-04-04 / 12:47:41  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 12:47:41  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 12:47:41  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 12:47:41  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 12:47:41  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:47:41  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:47:41  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:47:41  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 12:47:47  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 12:47:47  ----->  The recall score for the random forest classification model is 1.0
+2022-04-04 / 12:47:47  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-04 / 12:47:47  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-04 / 12:47:57  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:47:57  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:47:57  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:47:57  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 12:49:29  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 12:49:29  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 12:49:29  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 12:49:29  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 12:49:47  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 12:49:47  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 12:49:47  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 12:49:47  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 12:54:12  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 12:54:12  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 12:54:12  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 12:54:12  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 12:56:53  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 12:56:53  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 12:56:53  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 12:56:53  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 12:56:53  ----->  *********found the best model for cluster************
+2022-04-04 / 12:56:54  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 12:56:55  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 12:56:54  ----->  *********finding best model for cluster************
+2022-04-04 / 12:56:55  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 13:19:17  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 13:19:22  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-04 / 13:19:23  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 13:19:28  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 13:20:02  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 13:20:21  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 13:20:39  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 13:20:21  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 13:21:05  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 13:21:23  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-04 / 13:21:05  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-04 / 13:21:48  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-04 / 13:22:02  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-04 / 13:19:16  ----->  *********finding best model for cluster************
+2022-04-04 / 13:19:22  ----->  The precision score for the SVC model is 1.0
+2022-04-04 / 13:19:22  ----->  The recall score for the SVC model is 1.0
+2022-04-04 / 13:19:22  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-04 / 13:19:22  ----->  The f1 score for the SVC model is 1.0
+2022-04-04 / 13:19:22  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-04 / 13:19:22  ----->  The recall score for the K nearest neighbours classification model is 0.98
+2022-04-04 / 13:19:22  ----->  The roc auc score for the K nearest neighbours classification model is 0.99
+2022-04-04 / 13:19:22  ----->  The f1 score for the K nearest neighbours classification model is 0.99
+2022-04-04 / 13:19:27  ----->  The precision score for the random forest classification model is 1.0
+2022-04-04 / 13:19:27  ----->  The recall score for the random forest classification model is 0.98
+2022-04-04 / 13:19:27  ----->  The roc auc score for the random forest classification model is 0.99
+2022-04-04 / 13:19:27  ----->  The f1 score for the random forest classification model is 0.99
+2022-04-04 / 13:19:36  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-04 / 13:19:36  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-04 / 13:19:36  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-04 / 13:19:36  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-04 / 13:20:02  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-04 / 13:20:02  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-04 / 13:20:02  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-04 / 13:20:02  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-04 / 13:20:21  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-04 / 13:20:21  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-04 / 13:20:21  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-04 / 13:20:21  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-04 / 13:21:05  ----->  The precision score for the voting classification model is 1.0
+2022-04-04 / 13:21:05  ----->  The recall score for the voting classification model is 1.0
+2022-04-04 / 13:21:05  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-04 / 13:21:05  ----->  The f1 score for the voting classification model is 1.0
+2022-04-04 / 13:22:34  ----->  The precision score for the stacking classification model is 1.0
+2022-04-04 / 13:22:34  ----->  The recall score for the stacking classification model is 1.0
+2022-04-04 / 13:22:34  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-04 / 13:22:34  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-04 / 13:22:34  ----->  *********found the best model for cluster************
+2022-04-04 / 13:22:35  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-04 / 13:22:35  ----->  Exception occurred while tuning the support vector classification model learning algorithm. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-04 / 13:22:35  ----->  *********finding best model for cluster************
+2022-04-04 / 13:22:35  ----->  Exception occurred while finding the best machine learning model. Exception: The number of classes has to be greater than one; got 1 class
+2022-04-05 / 00:29:18  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:29:28  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:29:29  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:29:47  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:30:42  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:31:10  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:31:32  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:31:10  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:31:59  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:32:25  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:31:59  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:32:56  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:33:12  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:29:16  ----->  *********finding best model for cluster************
+2022-04-05 / 00:29:28  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 00:29:28  ----->  The recall score for the SVC model is 1.0
+2022-04-05 / 00:29:28  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-05 / 00:29:28  ----->  The f1 score for the SVC model is 1.0
+2022-04-05 / 00:29:29  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:29:29  ----->  The recall score for the K nearest neighbours classification model is 0.98
+2022-04-05 / 00:29:29  ----->  The roc auc score for the K nearest neighbours classification model is 0.99
+2022-04-05 / 00:29:29  ----->  The f1 score for the K nearest neighbours classification model is 0.99
+2022-04-05 / 00:29:46  ----->  The precision score for the random forest classification model is 1.0
+2022-04-05 / 00:29:46  ----->  The recall score for the random forest classification model is 0.98
+2022-04-05 / 00:29:46  ----->  The roc auc score for the random forest classification model is 0.99
+2022-04-05 / 00:29:46  ----->  The f1 score for the random forest classification model is 0.99
+2022-04-05 / 00:30:10  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:30:10  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:30:10  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:30:10  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:30:42  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:30:42  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:30:42  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:30:42  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:31:10  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:31:10  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:31:10  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:31:10  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:31:59  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:31:59  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:31:59  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:31:59  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 00:33:48  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 00:33:48  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 00:33:48  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 00:33:48  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 00:33:48  ----->  *********found the best model for cluster************
+2022-04-05 / 00:33:49  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:33:49  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:33:50  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:33:55  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:34:18  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:34:27  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:34:39  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:34:27  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:34:56  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:35:15  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:34:56  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:35:32  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:35:40  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:33:49  ----->  *********finding best model for cluster************
+2022-04-05 / 00:33:49  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 00:33:49  ----->  The recall score for the SVC model is 1.0
+2022-04-05 / 00:33:49  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-05 / 00:33:49  ----->  The f1 score for the SVC model is 1.0
+2022-04-05 / 00:33:50  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:33:50  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:33:50  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:33:50  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:33:55  ----->  The precision score for the random forest classification model is 1.0
+2022-04-05 / 00:33:55  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 00:33:55  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-05 / 00:33:55  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-05 / 00:34:01  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:34:01  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:34:01  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:34:01  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:34:18  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:34:18  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:34:18  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:34:18  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:34:27  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:34:27  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:34:27  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:34:27  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:34:56  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:34:56  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:34:56  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:34:56  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 00:35:58  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 00:35:58  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 00:35:58  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 00:35:58  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 00:35:58  ----->  *********found the best model for cluster************
+2022-04-05 / 00:35:58  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:35:59  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:36:00  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:36:04  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:36:34  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:36:50  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:37:06  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:36:50  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:37:27  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:37:44  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:37:27  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:38:18  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:38:28  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:35:58  ----->  *********finding best model for cluster************
+2022-04-05 / 00:35:59  ----->  The precision score for the SVC model is 0.967
+2022-04-05 / 00:35:59  ----->  The recall score for the SVC model is 0.951
+2022-04-05 / 00:35:59  ----->  The roc auc score for the SVRCmodel is 0.967
+2022-04-05 / 00:35:59  ----->  The f1 score for the SVC model is 0.959
+2022-04-05 / 00:36:00  ----->  The precision score for the K nearest neighbours classification model is 0.968
+2022-04-05 / 00:36:00  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:36:00  ----->  The roc auc score for the K nearest neighbours classification model is 0.991
+2022-04-05 / 00:36:00  ----->  The f1 score for the K nearest neighbours classification model is 0.984
+2022-04-05 / 00:36:04  ----->  The precision score for the random forest classification model is 0.968
+2022-04-05 / 00:36:04  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 00:36:04  ----->  The roc auc score for the random forest classification model is 0.991
+2022-04-05 / 00:36:04  ----->  The f1 score for the random forest classification model is 0.984
+2022-04-05 / 00:36:13  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:36:13  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:36:13  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:36:13  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:36:34  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:36:34  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:36:34  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:36:34  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:36:49  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:36:49  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:36:49  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:36:49  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:37:27  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:37:27  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:37:27  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:37:27  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 00:40:03  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 00:40:03  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 00:40:03  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 00:40:03  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 00:40:03  ----->  *********found the best model for cluster************
+2022-04-05 / 00:40:03  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:40:04  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:40:04  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:40:09  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:42:28  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:42:47  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:42:56  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:42:47  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:45:54  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:46:07  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:45:54  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:46:23  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:46:31  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:40:03  ----->  *********finding best model for cluster************
+2022-04-05 / 00:40:04  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 00:40:04  ----->  The recall score for the SVC model is 0.976
+2022-04-05 / 00:40:04  ----->  The roc auc score for the SVRCmodel is 0.988
+2022-04-05 / 00:40:04  ----->  The f1 score for the SVC model is 0.988
+2022-04-05 / 00:40:04  ----->  The precision score for the K nearest neighbours classification model is 0.955
+2022-04-05 / 00:40:04  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:40:04  ----->  The roc auc score for the K nearest neighbours classification model is 0.995
+2022-04-05 / 00:40:04  ----->  The f1 score for the K nearest neighbours classification model is 0.977
+2022-04-05 / 00:40:09  ----->  The precision score for the random forest classification model is 0.955
+2022-04-05 / 00:40:09  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 00:40:09  ----->  The roc auc score for the random forest classification model is 0.995
+2022-04-05 / 00:40:09  ----->  The f1 score for the random forest classification model is 0.977
+2022-04-05 / 00:40:14  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:40:14  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:40:14  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:40:14  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:42:28  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:42:28  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:42:28  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:42:28  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:42:47  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:42:47  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:42:47  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:42:47  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:45:54  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:45:54  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:45:54  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:45:54  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 00:46:49  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 00:46:49  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 00:46:49  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 00:46:49  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 00:46:49  ----->  *********found the best model for cluster************
+2022-04-05 / 00:51:05  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:51:12  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:51:13  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:51:19  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:51:52  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:52:16  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:52:36  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:52:16  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:53:01  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:53:22  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:53:01  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:53:47  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:54:02  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:51:05  ----->  *********finding best model for cluster************
+2022-04-05 / 00:51:12  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 00:51:12  ----->  The recall score for the SVC model is 1.0
+2022-04-05 / 00:51:12  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-05 / 00:51:12  ----->  The f1 score for the SVC model is 1.0
+2022-04-05 / 00:51:13  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:51:13  ----->  The recall score for the K nearest neighbours classification model is 0.98
+2022-04-05 / 00:51:13  ----->  The roc auc score for the K nearest neighbours classification model is 0.99
+2022-04-05 / 00:51:13  ----->  The f1 score for the K nearest neighbours classification model is 0.99
+2022-04-05 / 00:51:19  ----->  The precision score for the random forest classification model is 1.0
+2022-04-05 / 00:51:19  ----->  The recall score for the random forest classification model is 0.98
+2022-04-05 / 00:51:19  ----->  The roc auc score for the random forest classification model is 0.99
+2022-04-05 / 00:51:19  ----->  The f1 score for the random forest classification model is 0.99
+2022-04-05 / 00:51:29  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:51:29  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:51:29  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:51:29  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:51:52  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:51:52  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:51:52  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:51:52  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:52:16  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:52:16  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:52:16  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:52:16  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:53:01  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:53:01  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:53:01  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:53:01  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 00:54:34  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 00:54:34  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 00:54:34  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 00:54:34  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 00:54:34  ----->  *********found the best model for cluster************
+2022-04-05 / 00:54:35  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 00:54:36  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 00:54:36  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:54:41  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:56:04  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:56:19  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:59:12  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:56:19  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:59:28  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 00:59:41  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 00:59:28  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 00:59:59  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:00:07  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 00:54:35  ----->  *********finding best model for cluster************
+2022-04-05 / 00:54:35  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 00:54:35  ----->  The recall score for the SVC model is 1.0
+2022-04-05 / 00:54:35  ----->  The roc auc score for the SVRCmodel is 1.0
+2022-04-05 / 00:54:35  ----->  The f1 score for the SVC model is 1.0
+2022-04-05 / 00:54:36  ----->  The precision score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:54:36  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:54:36  ----->  The roc auc score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:54:36  ----->  The f1 score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 00:54:41  ----->  The precision score for the random forest classification model is 1.0
+2022-04-05 / 00:54:41  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 00:54:41  ----->  The roc auc score for the random forest classification model is 1.0
+2022-04-05 / 00:54:41  ----->  The f1 score for the random forest classification model is 1.0
+2022-04-05 / 00:54:46  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:54:46  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:54:46  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:54:46  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 00:56:04  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 00:56:04  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 00:56:04  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 00:56:04  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 00:56:19  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 00:56:19  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 00:56:19  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 00:56:19  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 00:59:28  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 00:59:28  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 00:59:28  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 00:59:28  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 01:00:24  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 01:00:24  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 01:00:24  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 01:00:24  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 01:00:24  ----->  *********found the best model for cluster************
+2022-04-05 / 01:00:24  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 01:00:25  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 01:00:26  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 01:00:30  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:00:57  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:01:08  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:01:25  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:01:08  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 01:03:32  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:03:49  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:03:32  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 01:04:35  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:04:45  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 01:00:24  ----->  *********finding best model for cluster************
+2022-04-05 / 01:00:25  ----->  The precision score for the SVC model is 0.967
+2022-04-05 / 01:00:25  ----->  The recall score for the SVC model is 0.951
+2022-04-05 / 01:00:25  ----->  The roc auc score for the SVRCmodel is 0.967
+2022-04-05 / 01:00:25  ----->  The f1 score for the SVC model is 0.959
+2022-04-05 / 01:00:25  ----->  The precision score for the K nearest neighbours classification model is 0.968
+2022-04-05 / 01:00:25  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 01:00:25  ----->  The roc auc score for the K nearest neighbours classification model is 0.991
+2022-04-05 / 01:00:25  ----->  The f1 score for the K nearest neighbours classification model is 0.984
+2022-04-05 / 01:00:30  ----->  The precision score for the random forest classification model is 0.968
+2022-04-05 / 01:00:30  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 01:00:30  ----->  The roc auc score for the random forest classification model is 0.991
+2022-04-05 / 01:00:30  ----->  The f1 score for the random forest classification model is 0.984
+2022-04-05 / 01:00:39  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:00:39  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:00:39  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:00:39  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:00:57  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 01:00:57  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 01:00:57  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 01:00:57  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 01:01:08  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 01:01:08  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 01:01:08  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 01:01:08  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 01:03:32  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 01:03:32  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 01:03:32  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 01:03:32  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 01:05:09  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 01:05:09  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 01:05:09  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 01:05:09  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 01:05:09  ----->  *********found the best model for cluster************
+2022-04-05 / 01:05:10  ----->  Finding the best hyperparameters for the SVC machine learning model
+2022-04-05 / 01:05:10  ----->  Finding the best hyperparameters for the KNeighbours clssification machine learning model
+2022-04-05 / 01:05:11  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 01:05:15  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:05:40  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:05:51  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:06:05  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:05:51  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 01:06:26  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:06:39  ----->  Finding the best hyperparameters for the gradient boosting regressor model
+2022-04-05 / 01:06:26  ----->  Creating a voting classifier using Ada boosting classifier, Gradient boosting classifier and xgboosting classifier
+2022-04-05 / 01:06:54  ----->  Finding the best hyperparameters for the ada boosting regressor model
+2022-04-05 / 01:07:03  ----->  Finding the best hyperparameters for the random forest regressor machine learning model
+2022-04-05 / 01:05:10  ----->  *********finding best model for cluster************
+2022-04-05 / 01:05:10  ----->  The precision score for the SVC model is 1.0
+2022-04-05 / 01:05:10  ----->  The recall score for the SVC model is 0.976
+2022-04-05 / 01:05:10  ----->  The roc auc score for the SVRCmodel is 0.988
+2022-04-05 / 01:05:10  ----->  The f1 score for the SVC model is 0.988
+2022-04-05 / 01:05:11  ----->  The precision score for the K nearest neighbours classification model is 0.955
+2022-04-05 / 01:05:11  ----->  The recall score for the K nearest neighbours classification model is 1.0
+2022-04-05 / 01:05:11  ----->  The roc auc score for the K nearest neighbours classification model is 0.995
+2022-04-05 / 01:05:11  ----->  The f1 score for the K nearest neighbours classification model is 0.977
+2022-04-05 / 01:05:15  ----->  The precision score for the random forest classification model is 0.955
+2022-04-05 / 01:05:15  ----->  The recall score for the random forest classification model is 1.0
+2022-04-05 / 01:05:15  ----->  The roc auc score for the random forest classification model is 0.995
+2022-04-05 / 01:05:15  ----->  The f1 score for the random forest classification model is 0.977
+2022-04-05 / 01:05:20  ----->  The precision score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:05:20  ----->  The recall score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:05:20  ----->  The roc auc score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:05:20  ----->  The f1 score for the gradient boosting classification model is 1.0
+2022-04-05 / 01:05:39  ----->  The precision score for the xgboost classification model is 1.0
+2022-04-05 / 01:05:39  ----->  The recall score for the xgboost classification model is 1.0
+2022-04-05 / 01:05:39  ----->  The roc auc score for the xgboost classification model is 1.0
+2022-04-05 / 01:05:39  ----->  The f1 score for the xgboost classification model is 1.0
+2022-04-05 / 01:05:50  ----->  The precision score for the ada boost classification model is 1.0
+2022-04-05 / 01:05:50  ----->  The recall score for the ada boost classification model is 1.0
+2022-04-05 / 01:05:50  ----->  The roc auc score for the ada boost classification model is 1.0
+2022-04-05 / 01:05:50  ----->  The f1 score for the ada boost classification model is 1.0
+2022-04-05 / 01:06:25  ----->  The precision score for the voting classification model is 1.0
+2022-04-05 / 01:06:25  ----->  The recall score for the voting classification model is 1.0
+2022-04-05 / 01:06:25  ----->  The roc auc score for the voting classification model is 1.0
+2022-04-05 / 01:06:25  ----->  The f1 score for the voting classification model is 1.0
+2022-04-05 / 01:07:21  ----->  The precision score for the stacking classification model is 1.0
+2022-04-05 / 01:07:21  ----->  The recall score for the stacking classification model is 1.0
+2022-04-05 / 01:07:21  ----->  The roc auc score for the stacking classification model is 1.0
+2022-04-05 / 01:07:21  ----->  The f1 score for the stacking classification model is 1.0
+2022-04-05 / 01:07:21  ----->  *********found the best model for cluster************

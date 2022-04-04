@@ -1,0 +1,76 @@
+2022-04-04 / 01:53:22  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 01:53:25  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 01:53:25  ----->  Performing the clustering on the data
+2022-04-04 / 01:53:25  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 01:55:28  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 01:55:30  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 01:55:30  ----->  Performing the clustering on the data
+2022-04-04 / 01:55:31  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 01:59:31  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 01:59:33  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 01:59:33  ----->  Performing the clustering on the data
+2022-04-04 / 01:59:33  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 02:04:04  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 02:04:06  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 02:04:06  ----->  Performing the clustering on the data
+2022-04-04 / 02:04:06  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 02:10:44  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 02:10:46  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 02:10:46  ----->  Performing the clustering on the data
+2022-04-04 / 02:10:47  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 10:43:04  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 10:43:06  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 10:43:06  ----->  Performing the clustering on the data
+2022-04-04 / 10:43:06  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 10:48:17  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 10:48:19  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 10:48:19  ----->  Performing the clustering on the data
+2022-04-04 / 10:48:19  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:07:00  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:07:02  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:07:02  ----->  Performing the clustering on the data
+2022-04-04 / 12:07:03  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:17:01  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:17:03  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:17:03  ----->  Performing the clustering on the data
+2022-04-04 / 12:17:03  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:18:50  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:18:52  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:18:52  ----->  Performing the clustering on the data
+2022-04-04 / 12:18:52  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:26:47  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:26:49  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:26:49  ----->  Performing the clustering on the data
+2022-04-04 / 12:26:49  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:40:38  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:40:40  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:40:40  ----->  Performing the clustering on the data
+2022-04-04 / 12:40:40  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 12:47:31  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 12:47:33  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 12:47:33  ----->  Performing the clustering on the data
+2022-04-04 / 12:47:33  ----->  Successfully created 5 clusters for the data
+2022-04-04 / 13:18:30  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 13:18:32  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 13:18:32  ----->  Performing the clustering on the data
+2022-04-04 / 13:18:32  ----->  Exception occurred while clustering the data. Exception: 'Series' object has no attribute 'reshape'
+2022-04-04 / 13:19:14  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-04 / 13:19:16  ----->  Optimal number of clusters for the provided data is 5
+2022-04-04 / 13:19:16  ----->  Performing the clustering on the data
+2022-04-04 / 13:19:16  ----->  Successfully created 5 clusters for the data
+2022-04-05 / 00:12:30  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-05 / 00:12:32  ----->  Optimal number of clusters for the provided data is 5
+2022-04-05 / 00:12:32  ----->  Performing the clustering on the data
+2022-04-05 / 00:12:32  ----->  Successfully created 5 clusters for the data
+2022-04-05 / 00:14:01  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-05 / 00:14:04  ----->  Optimal number of clusters for the provided data is 5
+2022-04-05 / 00:14:04  ----->  Performing the clustering on the data
+2022-04-05 / 00:14:04  ----->  Successfully created 5 clusters for the data
+2022-04-05 / 00:29:13  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-05 / 00:29:16  ----->  Optimal number of clusters for the provided data is 5
+2022-04-05 / 00:29:16  ----->  Performing the clustering on the data
+2022-04-05 / 00:29:16  ----->  Successfully created 5 clusters for the data
+2022-04-05 / 00:51:02  ----->  Finding the optimal number of clusters into which the data can be split
+2022-04-05 / 00:51:04  ----->  Optimal number of clusters for the provided data is 5
+2022-04-05 / 00:51:04  ----->  Performing the clustering on the data
+2022-04-05 / 00:51:05  ----->  Successfully created 5 clusters for the data
