@@ -198,3 +198,66 @@
 2022-04-05 / 01:05:10  ----->  Finding the best model for the cluster 1
 2022-04-05 / 01:07:22  ----->  Training of the machine learning model for the data cluster 1 successfully completed
 2022-04-05 / 01:07:22  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
+2022-04-06 / 00:41:32  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-06 / 00:41:32  ----->  Getting training preprocessed data.
+2022-04-06 / 00:41:32  ----->  Got training preprocessed data
+2022-04-06 / 00:41:32  ----->  Training_Clustering of the data started!!
+2022-04-06 / 00:41:34  ----->  Training_Clustering of the data completed!!
+2022-04-06 / 00:41:34  ----->  *************for the cluster number 2**************
+2022-04-06 / 00:41:34  ----->  Finding the best model for the cluster 2
+2022-04-06 / 00:49:38  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-06 / 00:49:38  ----->  *************for the cluster number 3**************
+2022-04-06 / 00:49:38  ----->  Finding the best model for the cluster 3
+2022-04-06 / 00:49:38  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-06 / 00:49:38  ----->  *************for the cluster number 0**************
+2022-04-06 / 00:49:38  ----->  Finding the best model for the cluster 0
+2022-04-06 / 00:54:48  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-06 / 00:54:48  ----->  *************for the cluster number 4**************
+2022-04-06 / 00:54:48  ----->  Finding the best model for the cluster 4
+2022-04-06 / 01:10:05  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-06 / 01:10:05  ----->  *************for the cluster number 1**************
+2022-04-06 / 01:10:05  ----->  Finding the best model for the cluster 1
+2022-04-06 / 01:17:33  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-06 / 01:17:33  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
+2022-04-06 / 01:29:17  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-06 / 01:29:17  ----->  Getting training preprocessed data.
+2022-04-06 / 01:29:17  ----->  Got training preprocessed data
+2022-04-06 / 01:29:17  ----->  Training_Clustering of the data started!!
+2022-04-06 / 01:29:19  ----->  Training_Clustering of the data completed!!
+2022-04-06 / 01:29:19  ----->  *************for the cluster number 2**************
+2022-04-06 / 01:29:19  ----->  Finding the best model for the cluster 2
+2022-04-06 / 01:54:21  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-06 / 01:54:21  ----->  *************for the cluster number 3**************
+2022-04-06 / 01:54:21  ----->  Finding the best model for the cluster 3
+2022-04-06 / 01:54:21  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-06 / 01:54:21  ----->  *************for the cluster number 0**************
+2022-04-06 / 01:54:21  ----->  Finding the best model for the cluster 0
+2022-04-06 / 02:17:49  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-06 / 02:17:49  ----->  *************for the cluster number 4**************
+2022-04-06 / 02:17:49  ----->  Finding the best model for the cluster 4
+2022-04-06 / 02:39:53  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-06 / 02:39:53  ----->  *************for the cluster number 1**************
+2022-04-06 / 02:39:53  ----->  Finding the best model for the cluster 1
+2022-04-06 / 02:47:30  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-06 / 02:47:30  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
+2022-04-08 / 19:59:36  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-08 / 19:59:36  ----->  Getting training preprocessed data.
+2022-04-08 / 19:59:36  ----->  Got training preprocessed data
+2022-04-08 / 19:59:36  ----->  Training_Clustering of the data started!!
+2022-04-08 / 19:59:39  ----->  Training_Clustering of the data completed!!
+2022-04-08 / 19:59:39  ----->  *************for the cluster number 2**************
+2022-04-08 / 19:59:39  ----->  Finding the best model for the cluster 2
+2022-04-08 / 20:02:25  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-08 / 20:02:25  ----->  *************for the cluster number 3**************
+2022-04-08 / 20:02:25  ----->  Finding the best model for the cluster 3
+2022-04-08 / 20:02:25  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-08 / 20:02:25  ----->  *************for the cluster number 0**************
+2022-04-08 / 20:02:25  ----->  Finding the best model for the cluster 0
+2022-04-08 / 20:04:23  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-08 / 20:04:23  ----->  *************for the cluster number 4**************
+2022-04-08 / 20:04:23  ----->  Finding the best model for the cluster 4
+2022-04-08 / 20:06:56  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-08 / 20:06:56  ----->  *************for the cluster number 1**************
+2022-04-08 / 20:06:56  ----->  Finding the best model for the cluster 1
+2022-04-08 / 20:08:23  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-08 / 20:08:23  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
