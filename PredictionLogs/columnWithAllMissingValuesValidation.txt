@@ -1,0 +1,16 @@
+2022-04-05 / 14:12:06  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-05 / 14:19:01  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:17:48  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:19:10  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:19:40  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:20:31  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:24:55  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 00:48:42  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 01:19:57  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 01:33:08  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 11:07:15  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 19:34:45  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 19:46:06  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 21:45:24  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 21:46:17  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
+2022-04-08 / 21:47:38  ----->  There are no columns with all missing values in the file Mushroom_Data_26112022_103005.csv provided by the client
