@@ -1,0 +1,113 @@
+schema: '2.0'
+stages:
+  validation:
+    cmd: python src/trainingRawDataValidation.py
+    deps:
+    - path: Training_Batch_Files/Mushroom_Data_23042021_023412.csv
+      md5: 2ebb73707899775df776fa963ddca39f
+      size: 305754
+    - path: config/schema_training.json
+      md5: 41b77c2a01d81337b3dae6bee1f328da
+      size: 927
+  transformation:
+    cmd: python src/trainingRawDataTransformation.py
+    deps:
+    - path: data/Training_Raw_files_validated/Good_raw/Mushroom_Data_23042021_023412.csv
+      md5: 4e4a1a36ef0d701b68d5d88854cd9e4f
+      size: 604708
+  dbinsertion:
+    cmd: python src/trainingDatabaseOperations.py
+    outs:
+    - path: data/Training_FileFromDB/master.csv
+      md5: 5de4ec480ad51bd19e5f79bef4d5db98
+      size: 604754
+  preprocessing:
+    cmd: python src/trainingPreprocessing.py
+    deps:
+    - path: data/Training_FileFromDB/master.csv
+      md5: 5de4ec480ad51bd19e5f79bef4d5db98
+      size: 604754
+    outs:
+    - path: data/preprocessed_data/trainingPreprocessedData.csv
+      md5: 6a0b486f8322e06623758b8b2547ef8e
+      size: 605728
+  model_training:
+    cmd: python src/modeltraining.py
+    deps:
+    - path: data/preprocessed_data/trainingPreprocessedData.csv
+      md5: 6a0b486f8322e06623758b8b2547ef8e
+      size: 605728
+    - path: src/clustering.py
+      md5: 2a462735915bbfcbe435bd09531022c1
+      size: 4592
+    - path: src/model_methods.py
+      md5: ad42c2a8f9c01cf3038aa0ec6d67b025
+      size: 6207
+    - path: src/modeltuner.py
+      md5: 57ba61d2e4292bff3c00806fa85ffa9a
+      size: 30743
+    - path: src/performLogging.py
+      md5: b203ac5be3fbab337da38ab140ad5ff9
+      size: 865
+    outs:
+    - path: models
+      md5: 1540b8064bd644cc9ebae0a9974385fc.dir
+      size: 8293578
+      nfiles: 6
+  prediction_validation:
+    cmd: python src/predictionRawDataValidation.py
+    deps:
+    - path: Prediction_Batch_Files/Mushroom_Data_26112022_103005.csv
+      md5: a10779dcf390ec1eff1e4a636d32b113
+      size: 73420
+    - path: config/schema_prediction.json
+      md5: 92586cae74c218c8c315da4d8262b618
+      size: 903
+  prediction_transformation:
+    cmd: python src/predictionRawDataTransformation.py
+    deps:
+    - path: data/Prediction_Raw_files_validated/Good_raw/Mushroom_Data_26112022_103005.csv
+      md5: cb34437d5e96d5ade945528d46a2e333
+      size: 144920
+  prediction_dbinsertion:
+    cmd: python src/predictionDatabaseOperations.py
+    deps:
+    - path: data/Prediction_Raw_files_validated/Good_raw/Mushroom_Data_26112022_103005.csv
+      md5: cb34437d5e96d5ade945528d46a2e333
+      size: 144920
+    outs:
+    - path: data/Prediction_FileFromDB/master.csv
+      md5: e4ef4f022150a30d202e44912417c11a
+      size: 144964
+  prediction_preprocessing:
+    cmd: python src/predictionPreprocessing.py
+    deps:
+    - path: data/Prediction_FileFromDB/master.csv
+      md5: e4ef4f022150a30d202e44912417c11a
+      size: 144964
+    outs:
+    - path: data/preprocessed_data_pred/predictionPreprocessedData.csv
+      md5: 8939c5d2eba2a8f906ddd7a1f4992105
+      size: 145188
+  prediction_using_trained_models:
+    cmd: python src/app.py
+    deps:
+    - path: src/Predictions_using_trained_model.py
+      md5: 1fe66263c8f6689ea5bdb2a094d2385b
+      size: 5005
+    - path: src/predictionDatabaseOperations.py
+      md5: c9794a3e891d737cdefd9a9307f9f8fb
+      size: 11165
+    - path: src/predictionPreprocessing.py
+      md5: e48293d6f13154a32c47fc6eef23e57f
+      size: 6825
+    - path: src/predictionRawDataTransformation.py
+      md5: 0bb5cb6768db1f676f4d29baafcada33
+      size: 4703
+    - path: src/predictionRawDataValidation.py
+      md5: 052a91dd812d833ed88eb69376ca9bf7
+      size: 17628
+    outs:
+    - path: Prediction_Output_File/Predictions.csv
+      md5: 0159dbbf3a5ffb91daa4b9e4b270f155
+      size: 22176

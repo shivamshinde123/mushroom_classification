@@ -1,0 +1,31 @@
+{  "SampleFileName": "Mushroom_Data_23122019_012645.csv",
+    "LengthOfDateStampInFile": 8,
+    "LengthOfTimeStampInFile": 6,
+    "NumberOfColumns": 23,
+    "ColumnNames":
+    {
+       "class":"TEXT",
+       "cap_shape": "TEXT",
+       "cap_surface": "TEXT",
+       "cap_color": "TEXT",
+       "bruises": "TEXT",
+       "odor": "TEXT",
+       "gill_attachment": "TEXT",
+       "gill_spacing": "TEXT",
+       "gill_size": "TEXT",
+       "gill_color": "TEXT",
+       "stalk_shape": "TEXT",
+       "stalk_root": "TEXT",
+       "stalk_surface_above_ring": "TEXT",
+       "stalk_surface_below_ring": "TEXT",
+       "stalk_color_above_ring": "TEXT",
+       "stalk_color_below_ring": "TEXT",
+       "veil_type": "TEXT",
+       "veil_color": "TEXT",
+       "ring_number": "TEXT",
+       "ring_type": "TEXT",
+       "spore_print_color": "TEXT",
+       "population": "TEXT",
+       "habitat": "TEXT"
+    }
+}

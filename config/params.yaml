@@ -1,0 +1,136 @@
+base:
+  project: Mushroom_Classification
+  random_state: 42
+  target_col: Output
+
+data_source:
+  batch_files: Training_Batch_Files
+  batch_files_pred: Prediction_Batch_Files
+  
+
+data_preparation:
+  training_db: Training.db
+  training_db_dir: Training_Database
+  table_name: trainingGoodRawDataTable
+  schema_training: config/schema_training.json
+  good_validated_raw_dir: data/Training_Raw_files_validated/Good_raw
+  bad_validated_raw_dir: data/Training_Raw_files_validated/Bad_raw
+  TrainingArchiveBadData: data/TrainingArchiveBadData
+  Training_FileFromDB: data/Training_FileFromDB
+  master_csv: master.csv
+
+TrainingLogs:
+  main_log_dir: TrainingLogs
+  values_from_schema: valuesFromSchemaLog.txt
+  good_bad_data_dir_creation: GoodAndBadDataFileCreationLogs.txt
+  RawDataFileNameValidation: RawDataFileNameValidation.txt
+  numberOfColumnsValidation: numberOfColumnsValidation.txt
+  columnWithAllMissingValuesValidation: columnWithAllMissingValuesValidation.txt
+  RawTrainingDataTransformation: RawTrainingDataTransformation.txt
+  databaseLogs: DatabaseLogs.txt
+  preprocessingLogs: preprocessingLogs.txt
+  model_methods: modelMethodsLogs.txt
+  clustering: clusteringLogs.txt
+  bestModelFinding: bestModelFindingLogs.txt
+  trainingModel: ModelTraining.txt
+
+pred_data_preparation:
+  prediction_db: Prediction.db
+  prediction_db_dir: Prediction_Database
+  table_name: predictionGoodRawDataTable
+  schema_prediction: config/schema_prediction.json
+  good_validated_raw_dir: data/Prediction_Raw_files_validated/Good_raw
+  bad_validated_raw_dir: data/Prediction_Raw_files_validated/Bad_raw
+  PredictionArchiveBadData: data/PredictionArchiveBadData
+  Prediction_FileFromDB: data/Prediction_FileFromDB
+  clusteringColumnName: ClusterNumber
+  master_csv: master.csv
+  Prediction_Output_File_dir: Prediction_Output_File
+  Prediction_Output_Filename: Predictions.csv
+
+PredictionLogs:
+  main_log_dir: PredictionLogs
+  values_from_schema: valuesFromSchemaLog.txt
+  good_bad_data_dir_creation: GoodAndBadDataFileCreationLogs.txt
+  RawDataFileNameValidation: RawDataFileNameValidation.txt
+  numberOfColumnsValidation: numberOfColumnsValidation.txt
+  columnWithAllMissingValuesValidation: columnWithAllMissingValuesValidation.txt
+  RawPredictionDataTransformation: RawPredictionDataTransformation.txt
+  databaseLogs: DatabaseLogs.txt
+  preprocessingLogs: preprocessingLogs.txt
+  model_methods: modelMethodsLogs.txt
+  clustering: clusteringLogs.txt
+  Prediction: Prediction.txt
+
+saved_models:
+  model_dir: models
+  
+
+data_preprocessing:
+  preprocessed_data_dir: data/preprocessed_data
+  preprocessed_data_filename: trainingPreprocessedData.csv
+  preprocessed_data_dir_pred: data/preprocessed_data_pred
+  preprocessed_data_filename_pred: predictionPreprocessedData.csv
+
+
+  SimpleImputer: 
+    strategy: most_frequent
+    missing_values: nan
+  
+  OrdinalEncoder:
+    handle_unknown: "use_encoded_value"
+    unknown_value: 100
+  
+  KMeansClustering:
+    init: k-means++
+    n_cluster_max: 11
+    KneeLocator: 
+      curve: convex
+      direction: decreasing
+    
+
+artifacts_dir: 
+  general: general
+  mlflow: mlflow_artifacts
+
+
+training:
+
+  test_size: 0.3
+
+  clusteringColumnName: ClusterNumber
+
+  svc:
+    cv: 5
+    verbose: True
+    param_grid: {C: [0.001, 0.01, 0.1, 0.5, 1.0], kernel: ["linear", "poly", "rbf"]}
+
+  knn:
+    cv: 5
+    param_grid: {n_neighbors: [3, 4, 5, 6, 6], weights: ["uniform", "distance"]}
+
+  random_forest:
+    cv: 5
+    verbose: 3
+    param_grid: {n_estimators: [10,50,100,130], max_depth: [2,3], max_features: ["auto","log2"]}
+
+  xg_boost:
+    cv: 5
+    verbose: 3
+    param_grid: {learning_rate: [0.001, 0.01, 0.1, 0.5], max_depth: [2,3,4], n_estimators: [10,50,100,200]}
+
+  ada_boost:
+    cv: 5
+    param_grid: {n_estimators: [50, 100, 200, 500], learning_rate: [0.001, 0.01, 0.1, 0.5, 1.0]}
+
+  gradient_boost:
+    cv: 5
+    verbose: 3
+    param_grid: {n_estimators: [50, 100, 200, 500], learning_rate: [0.001, 0.01, 0.1, 0.5, 1.0]}
+
+
+
+  
+
+
+

@@ -1,0 +1,30 @@
+2022-04-05 / 14:35:57  ----->  Quotes added successfully to the values of columns having string values
+2022-04-05 / 14:35:57  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:17:48  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:17:48  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:19:11  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:19:11  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:19:40  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:19:40  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:20:31  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:20:31  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:24:55  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:24:55  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 00:48:42  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 00:48:42  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 01:19:58  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 01:19:58  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 01:33:08  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 01:33:08  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 11:07:15  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 11:07:15  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 19:34:45  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 19:34:45  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 19:46:06  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 19:46:06  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 21:45:24  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 21:45:24  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 21:46:17  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 21:46:17  ----->  Removed the hyphens from the column names successfully
+2022-04-08 / 21:47:38  ----->  Quotes added successfully to the values of columns having string values
+2022-04-08 / 21:47:38  ----->  Removed the hyphens from the column names successfully

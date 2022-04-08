@@ -4,54 +4,133 @@ Mushroom Classification
 The main goal is to predict which mushroom is poisonous & which is edible given mushroom features
 
 Project Organization
-------------
-
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+``` bash
+|   .dvcignore
+|   .env
+|   .gitignore
+|   dvc.lock
+|   dvc.yaml
+|   LICENSE
+|   Makefile
+|   mlruns.dvc
+|   README.md
+|   requirements.txt
+|   setup.py
+|   test_environment.py
+|   tox.ini
+|   tree.txt
++---docs
+|
+|
++---data
+|
+|
++---mlruns
+|
+|
++---models
+|   +---ClusteringModel
+|   |       KMeansCluster.pkl
+|   |       
+|   +---ModelForClusterNo0
+|   |       StackingClassifier.pkl
+|   |       
+|   +---ModelForClusterNo1
+|   |       StackingClassifier.pkl
+|   |       
+|   +---ModelForClusterNo2
+|   |       StackingClassifier.pkl
+|   |       
+|   +---ModelForClusterNo3
+|   |       ModelWithConstantOutput.pkl
+|   |       
+|   \---ModelForClusterNo4
+|           StackingClassifier.pkl
+|           
++---notebooks
+|       .gitkeep
+|       EDA and preprocessing.ipynb
+|       
++---PredictionLogs
+|       columnWithAllMissingValuesValidation.txt
+|       DatabaseLogs.txt
+|       GoodAndBadDataFileCreationLogs.txt
+|       numberOfColumnsValidation.txt
+|       Prediction.txt
+|       preprocessingLogs.txt
+|       RawDataFileNameValidation.txt
+|       RawPredictionDataTransformation.txt
+|       
++---Prediction_Batch_Files
+|       .gitignore
+|       Mushroom_Data_26112022_103005.csv
+|       Mushroom_Data_26112022_103005.csv.dvc
+|       
++---Prediction_Database
+|       Prediction.db
+|       
++---Prediction_Output_File
+|       Predictions.csv
+|       
++---references
+|       .gitkeep
+|       
++---reports
+|   |   .gitkeep
+|   |   
+|   \---figures
+|           .gitkeep
+|           
++---src
+|   |   app.py
+|   |   clustering.py
+|   |   modeltraining.py
+|   |   modeltuner.py
+|   |   model_methods.py
+|   |   performLogging.py
+|   |   predictionDatabaseOperations.py
+|   |   predictionPreprocessing.py
+|   |   predictionRawDataTransformation.py
+|   |   predictionRawDataValidation.py
+|   |   Predictions_using_trained_model.py
+|   |   trainingDatabaseOperations.py
+|   |   trainingPreprocessing.py
+|   |   trainingRawDataTransformation.py
+|   |   trainingRawDataValidation.py
+|   |   __init__.py
+|   |   
+|   +---templates
+|   |       404.html
+|   |       500.html
+|   |       base.html
+|   |       index.html
+|   |       results.html
+|   |       
+|   \---__pycache__
+|             
++---TrainingLogs
+|       bestModelFindingLogs.txt
+|       clusteringLogs.txt
+|       columnWithAllMissingValuesValidation.txt
+|       DatabaseLogs.txt
+|       GoodAndBadDataFileCreationLogs.txt
+|       modelMethodsLogs.txt
+|       numberOfColumnsValidation.txt
+|       preprocessingLogs.txt
+|       RawDataFileNameValidation.txt
+|       RawTrainingDataTransformation.txt
+|       valuesFromSchemaLog.txt
+|       
++---Training_Batch_Files
+|       .gitignore
+|       Mushroom_Data_23042021_023412.csv
+|       Mushroom_Data_23042021_023412.csv.dvc
+|       
+\---Training_Database
+|        Training.db
+|
+|
+```
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+    
+    <div style="background-color: #d0ecfd;">
+        <div class="container">
+            <h1 class="text-center mt-3 text-danger">Mushroom Category Prediction Using Machine Learning</h1>
+            <div class="container border border-dark mt-5 rounded">
+                <h3 class="left m-5 text-dark">Please enter the path to the folder in which prediction input file is present:</h3>
+                <form action="/predictions" method="post">
+                    <div class="form-floating mb-3 rounded border-dark">
+                        <input type="text" class="form-control" id="folderpath" name="folderpath" placeholder="Folderpath here">
+                        <label for="folderpath">Folderpath here</label>
+                    </div><br>
+                    <button type="submit" class="btn btn-outline-dark my-3">Submit</button>
+                </form>
+            </div>
+        
+        </div>
+    </div>
+
+
+{% endblock %}

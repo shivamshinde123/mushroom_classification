@@ -1,0 +1,1410 @@
+2022-04-04 / 01:53:25  ----->  Saving the created model into the python pickle file
+2022-04-04 / 01:53:25  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ModelForClusterNo5
+2022-04-04 / 01:55:31  ----->  Saving the created model into the python pickle file
+2022-04-04 / 01:55:31  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ModelForClusterNo5
+2022-04-04 / 01:59:33  ----->  Saving the created model into the python pickle file
+2022-04-04 / 01:59:33  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ModelForClusterNo5
+2022-04-04 / 02:04:06  ----->  Saving the created model into the python pickle file
+2022-04-04 / 02:04:06  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ModelForClusterNo5
+2022-04-04 / 02:10:47  ----->  Saving the created model into the python pickle file
+2022-04-04 / 02:10:47  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ModelForClusterNo5
+2022-04-04 / 02:14:25  ----->  Saving the created model into the python pickle file
+2022-04-04 / 02:14:25  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=3,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 10:43:06  ----->  Saving the created model into the python pickle file
+2022-04-04 / 10:43:06  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 10:46:21  ----->  Saving the created model into the python pickle file
+2022-04-04 / 10:46:21  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=3,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 10:48:19  ----->  Saving the created model into the python pickle file
+2022-04-04 / 10:48:19  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 10:51:09  ----->  Saving the created model into the python pickle file
+2022-04-04 / 10:51:09  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=3,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 12:07:03  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:07:03  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:11:28  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:11:28  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=3,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 12:17:03  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:17:03  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:18:52  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:18:52  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:24:57  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:24:58  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=3,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 12:26:49  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:26:49  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:33:16  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:33:17  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.01,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 12:40:40  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:40:40  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:45:38  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:45:39  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.01,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 12:47:33  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:47:33  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 12:56:54  ----->  Saving the created model into the python pickle file
+2022-04-04 / 12:56:54  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-04 / 13:18:32  ----->  Saving the created model into the python pickle file
+2022-04-04 / 13:18:32  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 13:19:16  ----->  Saving the created model into the python pickle file
+2022-04-04 / 13:19:16  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-04 / 13:22:34  ----->  Saving the created model into the python pickle file
+2022-04-04 / 13:22:35  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-05 / 00:12:32  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:12:32  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-05 / 00:14:04  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:14:04  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-05 / 00:29:16  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:29:16  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-05 / 00:33:48  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:33:48  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-05 / 00:33:48  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:33:48  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-05 / 00:35:58  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:35:58  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-05 / 00:40:03  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:40:03  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-05 / 00:46:49  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:46:50  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-05 / 00:51:05  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:51:05  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-05 / 00:54:34  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:54:35  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-05 / 00:54:35  ----->  Saving the created model into the python pickle file
+2022-04-05 / 00:54:35  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-05 / 01:00:24  ----->  Saving the created model into the python pickle file
+2022-04-05 / 01:00:24  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-05 / 01:05:09  ----->  Saving the created model into the python pickle file
+2022-04-05 / 01:05:10  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-05 / 01:07:21  ----->  Saving the created model into the python pickle file
+2022-04-05 / 01:07:22  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-05 / 23:49:30  ----->  Loading the model KMeansCluster.pkl
+2022-04-05 / 23:49:48  ----->  Model KMeansCluster loaded successfully
+2022-04-05 / 23:49:49  ----->  Finding the appropriate model for cluster number 3
+2022-04-05 / 23:49:49  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-05 / 23:49:49  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-05 / 23:49:49  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-05 / 23:50:49  ----->  Loading the model KMeansCluster.pkl
+2022-04-05 / 23:50:50  ----->  Model KMeansCluster loaded successfully
+2022-04-05 / 23:50:51  ----->  Finding the appropriate model for cluster number 3
+2022-04-05 / 23:50:51  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-05 / 23:50:51  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-05 / 23:50:51  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-05 / 23:52:02  ----->  Loading the model KMeansCluster.pkl
+2022-04-05 / 23:52:03  ----->  Model KMeansCluster loaded successfully
+2022-04-05 / 23:52:03  ----->  Finding the appropriate model for cluster number 3
+2022-04-05 / 23:52:03  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-05 / 23:52:03  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-05 / 23:52:03  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-05 / 23:54:50  ----->  Loading the model KMeansCluster.pkl
+2022-04-05 / 23:54:53  ----->  Model KMeansCluster loaded successfully
+2022-04-05 / 23:54:54  ----->  Finding the appropriate model for cluster number 3
+2022-04-05 / 23:54:54  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-05 / 23:54:54  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-05 / 23:54:54  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'c:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-05 / 23:55:25  ----->  Loading the model KMeansCluster.pkl
+2022-04-05 / 23:55:26  ----->  Model KMeansCluster loaded successfully
+2022-04-05 / 23:55:30  ----->  Finding the appropriate model for cluster number 3
+2022-04-05 / 23:55:30  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-05 / 23:55:54  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-05 / 23:56:58  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'c:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 00:06:59  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 00:07:00  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 00:07:01  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 00:07:01  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 00:07:01  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 00:07:01  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 00:09:39  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 00:09:58  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 00:10:33  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 00:10:33  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 00:40:52  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 00:40:54  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 00:40:54  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 00:40:54  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 00:40:54  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 00:40:54  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 00:41:34  ----->  Saving the created model into the python pickle file
+2022-04-06 / 00:41:34  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-06 / 00:49:38  ----->  Saving the created model into the python pickle file
+2022-04-06 / 00:49:38  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-06 / 00:49:38  ----->  Saving the created model into the python pickle file
+2022-04-06 / 00:49:38  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-06 / 00:54:47  ----->  Saving the created model into the python pickle file
+2022-04-06 / 00:54:48  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-06 / 01:10:04  ----->  Saving the created model into the python pickle file
+2022-04-06 / 01:10:05  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-06 / 01:17:33  ----->  Saving the created model into the python pickle file
+2022-04-06 / 01:17:33  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-06 / 01:29:19  ----->  Saving the created model into the python pickle file
+2022-04-06 / 01:29:19  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-06 / 01:54:21  ----->  Saving the created model into the python pickle file
+2022-04-06 / 01:54:21  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-06 / 01:54:21  ----->  Saving the created model into the python pickle file
+2022-04-06 / 01:54:21  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-06 / 02:17:48  ----->  Saving the created model into the python pickle file
+2022-04-06 / 02:17:49  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-06 / 02:39:53  ----->  Saving the created model into the python pickle file
+2022-04-06 / 02:39:53  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-06 / 02:47:30  ----->  Saving the created model into the python pickle file
+2022-04-06 / 02:47:30  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-06 / 02:47:59  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 02:48:01  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 02:48:01  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 02:48:01  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 02:48:01  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 02:48:01  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 02:49:18  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 02:49:19  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 02:49:20  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 02:49:20  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 02:49:20  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 02:49:20  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 12:49:48  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 12:49:50  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 12:49:51  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 12:49:51  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 12:49:51  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 12:49:51  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 13:10:38  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 13:10:40  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 13:10:40  ----->  Exception occurred while loading the model KMeansCluster. Exception: name 'model' is not defined
+2022-04-06 / 13:11:45  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 13:11:46  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 13:11:47  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 13:11:47  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 13:11:47  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 13:11:47  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-06 / 13:20:07  ----->  Loading the model KMeansCluster.pkl
+2022-04-06 / 13:20:10  ----->  Model KMeansCluster loaded successfully
+2022-04-06 / 13:20:11  ----->  Finding the appropriate model for cluster number 3
+2022-04-06 / 13:20:11  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-06 / 13:20:11  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-06 / 13:20:11  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-07 / 23:29:39  ----->  Loading the model KMeansCluster.pkl
+2022-04-07 / 23:29:45  ----->  Model KMeansCluster loaded successfully
+2022-04-07 / 23:29:45  ----->  Finding the appropriate model for cluster number 3
+2022-04-07 / 23:29:45  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-07 / 23:29:45  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-07 / 23:29:45  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-07 / 23:30:21  ----->  Loading the model KMeansCluster.pkl
+2022-04-07 / 23:30:23  ----->  Model KMeansCluster loaded successfully
+2022-04-07 / 23:30:23  ----->  Finding the appropriate model for cluster number 3
+2022-04-07 / 23:30:23  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-07 / 23:30:23  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-07 / 23:30:23  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-07 / 23:34:26  ----->  Loading the model KMeansCluster.pkl
+2022-04-07 / 23:34:29  ----->  Model KMeansCluster loaded successfully
+2022-04-07 / 23:34:29  ----->  Finding the appropriate model for cluster number 3
+2022-04-07 / 23:34:29  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-07 / 23:34:29  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-07 / 23:34:29  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-07 / 23:35:58  ----->  Loading the model KMeansCluster.pkl
+2022-04-07 / 23:36:02  ----->  Model KMeansCluster loaded successfully
+2022-04-07 / 23:36:02  ----->  Finding the appropriate model for cluster number 3
+2022-04-07 / 23:36:02  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-07 / 23:36:02  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-07 / 23:36:02  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\Predictions_using_trained_model.py'>
+2022-04-08 / 00:18:12  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:18:12  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:18:12  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:18:12  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:18:13  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:18:13  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 00:19:35  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:19:35  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:19:35  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:19:35  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:19:35  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:19:35  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 00:20:07  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:20:07  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:20:07  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:20:07  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:20:07  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:20:07  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 00:20:56  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:20:56  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:20:56  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:20:56  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:20:56  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:20:56  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 00:25:20  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:25:20  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:25:20  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:25:20  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:25:20  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:25:20  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 00:49:05  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 00:49:05  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 00:49:06  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 00:49:06  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 00:49:06  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 00:49:06  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 01:20:20  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 01:20:20  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 01:20:21  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 01:20:21  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 01:20:21  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 01:20:21  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 01:33:30  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 01:33:30  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 01:33:30  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 01:33:30  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 01:33:30  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 01:33:30  ----->  Exception occurred while loading the model ModelWithConstantOutput. Exception: Can't get attribute 'ModelWithSameOutputEverytime' on <module '__main__' from 'C:\\Users\\shiva\\Desktop\\Mushroom classification\\Mushroom_Classification\\src\\app.py'>
+2022-04-08 / 11:07:37  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 11:07:37  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 11:07:37  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 11:07:37  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 11:07:37  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 11:07:37  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 11:07:37  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 11:07:37  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 11:07:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 11:07:38  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 11:07:38  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 11:07:38  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 11:07:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 11:07:39  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 11:07:39  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 11:07:39  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 11:07:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 11:07:39  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 11:07:39  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 11:07:39  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 11:07:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 11:07:40  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:35:06  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 19:35:06  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 19:35:06  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 19:35:06  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 19:35:07  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 19:35:07  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 19:35:07  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 19:35:07  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 19:35:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:35:08  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:35:08  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 19:35:08  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 19:35:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:35:08  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:35:08  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 19:35:08  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 19:35:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:35:08  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:35:08  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 19:35:08  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 19:35:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:35:09  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:46:28  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 19:46:28  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 19:46:28  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 19:46:28  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 19:46:28  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 19:46:28  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 19:46:28  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 19:46:28  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 19:46:28  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:46:28  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:46:28  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 19:46:28  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 19:46:28  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:46:28  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:46:28  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 19:46:28  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 19:46:28  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:46:28  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:46:29  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 19:46:29  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 19:46:29  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 19:46:29  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 19:59:39  ----->  Saving the created model into the python pickle file
+2022-04-08 / 19:59:39  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-08 / 20:02:25  ----->  Saving the created model into the python pickle file
+2022-04-08 / 20:02:25  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-08 / 20:02:25  ----->  Saving the created model into the python pickle file
+2022-04-08 / 20:02:25  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-08 / 20:04:22  ----->  Saving the created model into the python pickle file
+2022-04-08 / 20:04:23  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-08 / 20:06:56  ----->  Saving the created model into the python pickle file
+2022-04-08 / 20:06:56  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-08 / 20:08:23  ----->  Saving the created model into the python pickle file
+2022-04-08 / 20:08:23  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-08 / 21:45:46  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 21:45:46  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 21:45:46  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 21:45:46  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 21:45:46  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 21:45:46  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 21:45:46  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 21:45:46  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 21:45:46  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:45:47  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:45:47  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 21:45:47  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 21:45:47  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:45:47  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:45:47  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 21:45:47  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 21:45:47  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:45:47  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:45:48  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 21:45:48  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 21:45:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:45:48  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:46:38  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 21:46:38  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 21:46:38  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 21:46:38  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 21:46:38  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 21:46:38  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 21:46:38  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 21:46:38  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 21:46:38  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:46:38  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:46:39  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 21:46:39  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 21:46:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:46:39  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:46:39  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 21:46:39  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 21:46:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:46:39  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:46:39  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 21:46:39  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 21:46:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:46:39  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:48:00  ----->  Loading the model KMeansCluster.pkl
+2022-04-08 / 21:48:00  ----->  Model KMeansCluster loaded successfully
+2022-04-08 / 21:48:00  ----->  Finding the appropriate model for cluster number 3
+2022-04-08 / 21:48:00  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-08 / 21:48:00  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-08 / 21:48:00  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-08 / 21:48:00  ----->  Finding the appropriate model for cluster number 4
+2022-04-08 / 21:48:00  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-08 / 21:48:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:48:01  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:48:01  ----->  Finding the appropriate model for cluster number 0
+2022-04-08 / 21:48:01  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-08 / 21:48:01  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:48:02  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:48:02  ----->  Finding the appropriate model for cluster number 1
+2022-04-08 / 21:48:02  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-08 / 21:48:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:48:02  ----->  Model StackingClassifier loaded successfully
+2022-04-08 / 21:48:02  ----->  Finding the appropriate model for cluster number 2
+2022-04-08 / 21:48:02  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-08 / 21:48:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-08 / 21:48:02  ----->  Model StackingClassifier loaded successfully

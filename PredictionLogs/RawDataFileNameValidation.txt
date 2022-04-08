@@ -1,0 +1,36 @@
+2022-04-05 / 13:18:02  ----->  Valid file name! File moved to the good data folder
+2022-04-05 / 13:18:02  ----->  The validation for the data file name passed!
+2022-04-05 / 14:09:07  ----->  Valid file name! File moved to the good data folder
+2022-04-05 / 14:09:07  ----->  The validation for the data file name passed!
+2022-04-05 / 14:12:06  ----->  Valid file name! File moved to the good data folder
+2022-04-05 / 14:12:06  ----->  The validation for the data file name passed!
+2022-04-05 / 14:19:01  ----->  Valid file name! File moved to the good data folder
+2022-04-05 / 14:19:01  ----->  The validation for the data file name passed!
+2022-04-08 / 00:17:48  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:17:48  ----->  The validation for the data file name passed!
+2022-04-08 / 00:19:10  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:19:10  ----->  The validation for the data file name passed!
+2022-04-08 / 00:19:40  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:19:40  ----->  The validation for the data file name passed!
+2022-04-08 / 00:20:31  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:20:31  ----->  The validation for the data file name passed!
+2022-04-08 / 00:24:55  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:24:55  ----->  The validation for the data file name passed!
+2022-04-08 / 00:48:42  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 00:48:42  ----->  The validation for the data file name passed!
+2022-04-08 / 01:19:57  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 01:19:57  ----->  The validation for the data file name passed!
+2022-04-08 / 01:33:08  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 01:33:08  ----->  The validation for the data file name passed!
+2022-04-08 / 11:07:15  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 11:07:15  ----->  The validation for the data file name passed!
+2022-04-08 / 19:34:45  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 19:34:45  ----->  The validation for the data file name passed!
+2022-04-08 / 19:46:06  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 19:46:06  ----->  The validation for the data file name passed!
+2022-04-08 / 21:45:24  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 21:45:24  ----->  The validation for the data file name passed!
+2022-04-08 / 21:46:17  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 21:46:17  ----->  The validation for the data file name passed!
+2022-04-08 / 21:47:38  ----->  Valid file name! File moved to the good data folder
+2022-04-08 / 21:47:38  ----->  The validation for the data file name passed!

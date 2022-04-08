@@ -1,0 +1,50 @@
+2022-04-05 / 15:12:43  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-05 / 15:12:43  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:18:12  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:18:12  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:19:35  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:19:35  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:20:07  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:20:07  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:20:56  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:20:56  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:25:20  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:25:20  ----->  Processing of the data completed successfully!
+2022-04-08 / 00:49:05  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 00:49:05  ----->  Processing of the data completed successfully!
+2022-04-08 / 01:20:20  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 01:20:20  ----->  Processing of the data completed successfully!
+2022-04-08 / 01:33:30  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 01:33:30  ----->  Processing of the data completed successfully!
+2022-04-08 / 11:07:37  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 11:07:37  ----->  Processing of the data completed successfully!
+2022-04-08 / 19:28:03  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:28:03  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:35:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:35:06  ----->  Processing of the data completed successfully!
+2022-04-08 / 19:46:27  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:46:28  ----->  Processing of the data completed successfully!
+2022-04-08 / 19:52:29  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:52:29  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:52:52  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:52:52  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:53:00  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:53:00  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:53:10  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:53:10  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:54:01  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:54:01  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:54:40  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:54:40  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:55:31  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:55:31  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:58:00  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:58:00  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 19:58:34  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 19:58:34  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-08 / 21:45:46  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 21:45:46  ----->  Processing of the data completed successfully!
+2022-04-08 / 21:46:38  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 21:46:38  ----->  Processing of the data completed successfully!
+2022-04-08 / 21:48:00  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-08 / 21:48:00  ----->  Processing of the data completed successfully!

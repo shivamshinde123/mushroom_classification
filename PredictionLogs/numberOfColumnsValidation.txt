@@ -1,0 +1,22 @@
+2022-04-05 / 13:18:02  ----->  Validation for number of columns failed!
+2022-04-05 / 13:18:02  ----->  Moving the file to the bad data folder!
+2022-04-05 / 13:18:02  ----->  File moved to the bad data folder!
+2022-04-05 / 14:09:07  ----->  Validation for number of columns failed!
+2022-04-05 / 14:09:07  ----->  Moving the file to the bad data folder!
+2022-04-05 / 14:09:07  ----->  File moved to the bad data folder!
+2022-04-05 / 14:12:06  ----->  Validation for number of columns in the data passed!
+2022-04-05 / 14:19:01  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:17:48  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:19:10  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:19:40  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:20:31  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:24:55  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 00:48:42  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 01:19:57  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 01:33:08  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 11:07:15  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 19:34:45  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 19:46:06  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 21:45:24  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 21:46:17  ----->  Validation for number of columns in the data passed!
+2022-04-08 / 21:47:38  ----->  Validation for number of columns in the data passed!
