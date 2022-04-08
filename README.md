@@ -4,7 +4,7 @@ Mushroom Classification
 The main goal is to predict which mushroom is poisonous & which is edible given mushroom features
 
 Project Organization
-------------
+``` bash
 |   .dvcignore
 |   .env
 |   .gitignore
@@ -130,9 +130,7 @@ Project Organization
 |        Training.db
 |
 |
-
-        
-
+```
 
 
 --------
