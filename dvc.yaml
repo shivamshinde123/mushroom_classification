@@ -1,4 +1,5 @@
 stages:
+# Training Stage
   validation:
     cmd: python src/trainingRawDataValidation.py
     deps:
@@ -32,4 +33,16 @@ stages:
     - src/performLogging.py
     outs:
     - models
+
+# Prediction Stage
+  prediction_using_trained_models:
+    cmd: python src/app.py
+    deps:
+    - src/predictionRawDataValidation.py
+    - src/predictionRawDataTransformation.py
+    - src/predictionDatabaseOperations.py
+    - src/predictionPreprocessing.py
+    - src/Predictions_using_trained_model.py
+    outs:
+    - Prediction_Output_File/Predictions.csv
 
