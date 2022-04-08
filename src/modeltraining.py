@@ -1,5 +1,3 @@
-import warnings
-
 from sklearn.model_selection import train_test_split
 
 from performLogging import Logger
@@ -12,8 +10,7 @@ import os
 import yaml
 import pathlib
 import pandas as pd
-
-warnings.simplefilter(action='ignore', category=FutureWarning)
+import numpy as np
 
 
 class ModelWithSameOutputEverytime(BaseEstimator,ClassifierMixin):
@@ -35,11 +32,12 @@ class ModelWithSameOutputEverytime(BaseEstimator,ClassifierMixin):
         pass
 
     def fit(self, X, y = None):
-        self.unique_label = y[1]
+        self.unique_value = y[1]
         return self
 
     def predict(self, X, y = None):
-        return self.unique_label * len(X)
+        result = np.array([self.unique_value]* len(X))
+        return result
 
 
 class modelTraining:
