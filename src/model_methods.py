@@ -5,6 +5,7 @@ import shutil
 import warnings
 import yaml
 from performLogging import Logger
+import joblib
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -67,7 +68,8 @@ class modelMethods:
                 os.makedirs(path)
 
             # saving the model as a python pickle file
-            pickle.dump(model, open(os.path.join(path, f"{filename}.pkl"),"wb"))
+            with open(os.path.join(path, f"{filename}.pkl"),"wb") as k:
+                pickle.dump(model, k)
 
             Logger().log(f, f"Model {model} saved successfully in {path}")
 
@@ -120,7 +122,10 @@ class modelMethods:
 
             # loading the saved model
             path1 = os.path.join(path, f"{filename}.pkl")
-            model = pickle.load(open(path1,"rb"))
+
+            with open(path1,"rb") as k:
+                model = pickle.load(k)
+
             Logger().log(f, f"Model {filename} loaded successfully")
 
             # returning the model
