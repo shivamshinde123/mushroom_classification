@@ -715,21 +715,21 @@ class modelTuner:
 
             ## here we will use the f1_score as a evaluation metrics for choosing the best model for mushroom classification
 
-            max_f1 = max([f1_score_sc,f1_score_vc,f1_score_abc,f1_score_xgb,f1_score_gbc,f1_score_rfc,f1_score_knc,f1_score_svc])
-
-            if max_f1 == f1_score_sc:
+            max_roc_auc = max([roc_auc_score_sc,roc_auc_score_vc,roc_auc_score_abc,roc_auc_score_xgb,roc_auc_score_gbc,roc_auc_score_rfc,roc_auc_score_knc,roc_auc_score_svc])
+            
+            if  max_roc_auc == roc_auc_score_sc:
                 return "StackingClassifier", sc
-            elif max_f1 == f1_score_vc:
+            elif  max_roc_auc == roc_auc_score_vc:
                 return "VotingClassifier", vc
-            elif max_f1 == f1_score_xgb:
+            elif  max_roc_auc == roc_auc_score_xgb:
                 return "XGBClassifier", xgb
-            elif max_f1 == f1_score_rfc:
+            elif  max_roc_auc == roc_auc_score_rfc:
                 return "RandomForestClassifier", rfc
-            elif max_f1 == f1_score_gbc:
+            elif  max_roc_auc == roc_auc_score_gbc:
                 return "GradientBoostingClassifier", gbc
-            elif max_f1 == f1_score_abc:
+            elif  max_roc_auc == roc_auc_score_abc:
                 return "AdaBoostingClassifier", abc
-            elif max_f1 == f1_score_knc:
+            elif  max_roc_auc == roc_auc_score_knc:
                 return "KNeighborsClassifier", knc
             else:
                 return "SVC", svc
