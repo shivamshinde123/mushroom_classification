@@ -48,6 +48,7 @@ pred_data_preparation:
   Prediction_Output_File_dir: Prediction_Output_File
   Prediction_Output_Filename: Predictions.csv
 
+
 PredictionLogs:
   main_log_dir: PredictionLogs
   values_from_schema: valuesFromSchemaLog.txt
@@ -71,6 +72,8 @@ data_preprocessing:
   preprocessed_data_filename: trainingPreprocessedData.csv
   preprocessed_data_dir_pred: data/preprocessed_data_pred
   preprocessed_data_filename_pred: predictionPreprocessedData.csv
+  pipeline_path: Pipelines
+  encoding_details: encoding_details
 
 
   SimpleImputer: 
