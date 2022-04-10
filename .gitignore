@@ -87,11 +87,11 @@ target/
 
 # Mypy cache
 .mypy_cache/
-/models
-/mlruns
-/TrainingLogs
+models/
+mlruns/
+TrainingLogs/
 /PredictionLogs/
-/notebooks
-/docs
-/references
-/reports
+notebooks/
+docs/
+references/
+reports/
