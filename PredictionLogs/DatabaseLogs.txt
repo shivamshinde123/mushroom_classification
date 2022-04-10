@@ -188,3 +188,530 @@
 2022-04-08 / 21:47:39  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
 2022-04-08 / 21:48:00  ----->  Connection with the database Prediction.db made
 2022-04-08 / 21:48:00  ----->  File exported successfully!!
+2022-04-09 / 02:16:10  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:16:10  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 02:16:10  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:16:11  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 02:16:11  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:16:11  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 02:16:35  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:16:35  ----->  File exported successfully!!
+2022-04-09 / 02:17:42  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:17:42  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 02:17:42  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:17:42  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 02:17:42  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:17:42  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 02:18:06  ----->  Connection with the database Prediction.db made
+2022-04-09 / 02:18:06  ----->  File exported successfully!!
+2022-04-09 / 11:35:51  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:35:51  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 11:35:51  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:35:51  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 11:35:51  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:35:51  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 11:36:15  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:36:15  ----->  File exported successfully!!
+2022-04-09 / 11:38:02  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:38:02  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 11:38:02  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:38:03  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 11:38:03  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:38:03  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:38:03  ----->  File exported successfully!!
+2022-04-09 / 11:45:16  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:45:16  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 11:45:16  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:45:16  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 11:45:16  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:45:16  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 11:45:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:45:40  ----->  File exported successfully!!
+2022-04-09 / 11:56:36  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:56:36  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 11:56:36  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:56:36  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 11:56:37  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:56:37  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 11:57:00  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:57:00  ----->  File exported successfully!!
+2022-04-09 / 11:58:25  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:58:25  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 11:58:25  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:58:26  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 11:58:26  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:58:26  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 11:58:49  ----->  Connection with the database Prediction.db made
+2022-04-09 / 11:58:49  ----->  File exported successfully!!
+2022-04-09 / 12:47:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:47:12  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 12:47:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:47:12  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 12:47:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:47:12  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 12:47:33  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:47:33  ----->  File exported successfully!!
+2022-04-09 / 12:51:23  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:51:23  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 12:51:24  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:51:24  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 12:51:24  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:51:24  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 12:51:47  ----->  Connection with the database Prediction.db made
+2022-04-09 / 12:51:47  ----->  File exported successfully!!
+2022-04-09 / 17:48:11  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:48:11  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 17:48:11  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:48:12  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 17:48:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:48:12  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 17:48:32  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:48:32  ----->  File exported successfully!!
+2022-04-09 / 17:56:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:56:14  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 17:56:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:56:14  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 17:56:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:56:14  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 17:56:36  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:56:36  ----->  File exported successfully!!
+2022-04-09 / 17:57:44  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:57:44  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 17:57:44  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:57:44  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 17:57:44  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:57:44  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 17:58:05  ----->  Connection with the database Prediction.db made
+2022-04-09 / 17:58:05  ----->  File exported successfully!!
+2022-04-09 / 18:06:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:06:12  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 18:06:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:06:12  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 18:06:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:06:12  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 18:06:33  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:06:33  ----->  File exported successfully!!
+2022-04-09 / 18:07:38  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:07:38  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 18:07:38  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:07:39  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 18:07:39  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:07:39  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 18:07:59  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:07:59  ----->  File exported successfully!!
+2022-04-09 / 18:10:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:10:22  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 18:10:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:10:23  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 18:10:23  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:10:23  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 18:10:43  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:10:43  ----->  File exported successfully!!
+2022-04-09 / 18:13:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:13:22  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 18:13:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:13:22  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 18:13:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:13:22  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 18:13:43  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:13:43  ----->  File exported successfully!!
+2022-04-09 / 18:14:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:14:14  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 18:14:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:14:14  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 18:14:14  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:14:14  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 18:14:36  ----->  Connection with the database Prediction.db made
+2022-04-09 / 18:14:36  ----->  File exported successfully!!
+2022-04-09 / 20:00:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:00:12  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:00:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:00:12  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:00:12  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:00:12  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:00:33  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:00:33  ----->  File exported successfully!!
+2022-04-09 / 20:13:56  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:13:56  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:13:56  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:13:57  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:13:57  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:13:57  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:14:18  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:14:18  ----->  File exported successfully!!
+2022-04-09 / 20:17:47  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:17:47  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:17:48  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:17:48  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:17:48  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:17:48  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:18:07  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:18:07  ----->  File exported successfully!!
+2022-04-09 / 20:24:19  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:24:19  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:24:19  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:24:20  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:24:20  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:24:20  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:24:42  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:24:42  ----->  File exported successfully!!
+2022-04-09 / 20:27:18  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:27:18  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:27:18  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:27:19  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:27:19  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:27:19  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:27:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:27:40  ----->  File exported successfully!!
+2022-04-09 / 20:28:54  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:28:54  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:28:54  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:28:54  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:28:54  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:28:54  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:29:15  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:29:15  ----->  File exported successfully!!
+2022-04-09 / 20:31:15  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:31:15  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 20:31:15  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:31:15  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 20:31:15  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:31:15  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 20:31:36  ----->  Connection with the database Prediction.db made
+2022-04-09 / 20:31:36  ----->  File exported successfully!!
+2022-04-09 / 22:19:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:19:40  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:19:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:19:40  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:19:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:19:40  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:20:04  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:20:04  ----->  File exported successfully!!
+2022-04-09 / 22:21:24  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:21:24  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:21:24  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:21:25  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:21:25  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:21:25  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:21:47  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:21:47  ----->  File exported successfully!!
+2022-04-09 / 22:22:30  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:22:30  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:22:31  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:22:31  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:22:31  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:22:31  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:22:51  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:22:51  ----->  File exported successfully!!
+2022-04-09 / 22:23:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:23:58  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:23:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:23:58  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:23:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:23:58  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:24:22  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:24:22  ----->  File exported successfully!!
+2022-04-09 / 22:28:23  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:28:23  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:28:23  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:28:23  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:28:23  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:28:23  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:28:48  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:28:48  ----->  File exported successfully!!
+2022-04-09 / 22:43:08  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:43:08  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:43:08  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:43:08  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:43:08  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:43:08  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:43:32  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:43:32  ----->  File exported successfully!!
+2022-04-09 / 22:46:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:46:58  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:46:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:46:58  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:46:58  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:46:58  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:47:19  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:47:19  ----->  File exported successfully!!
+2022-04-09 / 22:48:57  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:48:57  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:48:57  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:48:57  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:48:57  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:48:57  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:49:20  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:49:20  ----->  File exported successfully!!
+2022-04-09 / 22:53:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:53:40  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-09 / 22:53:40  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:53:40  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-09 / 22:53:41  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:53:41  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-09 / 22:54:04  ----->  Connection with the database Prediction.db made
+2022-04-09 / 22:54:04  ----->  File exported successfully!!
+2022-04-10 / 00:18:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 00:18:48  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 00:18:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 00:18:49  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 00:18:49  ----->  Connection with the database Prediction.db made
+2022-04-10 / 00:18:49  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 00:19:13  ----->  Connection with the database Prediction.db made
+2022-04-10 / 00:19:14  ----->  File exported successfully!!
+2022-04-10 / 01:14:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:14:11  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 01:14:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:14:11  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 01:14:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:14:11  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 01:14:32  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:14:32  ----->  File exported successfully!!
+2022-04-10 / 01:19:35  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:19:35  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 01:19:35  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:19:36  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 01:19:36  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:19:36  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 01:19:57  ----->  Connection with the database Prediction.db made
+2022-04-10 / 01:19:57  ----->  File exported successfully!!
+2022-04-10 / 14:40:46  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:40:46  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:40:46  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:40:46  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:40:46  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:40:46  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:41:08  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:41:08  ----->  File exported successfully!!
+2022-04-10 / 14:42:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:42:18  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:42:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:42:18  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:42:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:42:18  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:42:41  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:42:41  ----->  File exported successfully!!
+2022-04-10 / 14:43:45  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:43:45  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:43:45  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:43:45  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:43:45  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:43:45  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:44:06  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:44:06  ----->  File exported successfully!!
+2022-04-10 / 14:46:21  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:46:21  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:46:21  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:46:21  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:46:21  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:46:21  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:46:42  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:46:42  ----->  File exported successfully!!
+2022-04-10 / 14:49:05  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:49:05  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:49:06  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:49:06  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:49:06  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:49:06  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:49:29  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:49:29  ----->  File exported successfully!!
+2022-04-10 / 14:53:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:53:55  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:53:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:53:55  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:53:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:53:55  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:54:17  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:54:17  ----->  File exported successfully!!
+2022-04-10 / 14:55:35  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:55:35  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:55:35  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:55:36  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:55:36  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:55:36  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:55:59  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:55:59  ----->  File exported successfully!!
+2022-04-10 / 14:59:16  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:59:16  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 14:59:16  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:59:17  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 14:59:17  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:59:17  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 14:59:40  ----->  Connection with the database Prediction.db made
+2022-04-10 / 14:59:40  ----->  File exported successfully!!
+2022-04-10 / 15:00:38  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:00:38  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:00:38  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:00:38  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:00:39  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:00:39  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:01:01  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:01:01  ----->  File exported successfully!!
+2022-04-10 / 15:09:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:09:24  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:09:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:09:25  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:09:25  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:09:25  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:09:46  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:09:46  ----->  File exported successfully!!
+2022-04-10 / 15:12:08  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:12:08  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:12:09  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:12:09  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:12:09  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:12:09  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:12:32  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:12:32  ----->  File exported successfully!!
+2022-04-10 / 15:13:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:13:47  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:13:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:13:47  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:13:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:13:47  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:14:10  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:14:10  ----->  File exported successfully!!
+2022-04-10 / 15:15:25  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:15:25  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:15:25  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:15:25  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:15:25  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:15:25  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:15:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:15:47  ----->  File exported successfully!!
+2022-04-10 / 15:23:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:23:47  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:23:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:23:47  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:23:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:23:47  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:24:09  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:24:09  ----->  File exported successfully!!
+2022-04-10 / 15:26:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:26:44  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:26:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:26:44  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:26:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:26:44  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:27:08  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:27:08  ----->  File exported successfully!!
+2022-04-10 / 15:31:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:31:11  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:31:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:31:11  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:31:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:31:11  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:31:33  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:31:33  ----->  File exported successfully!!
+2022-04-10 / 15:34:34  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:34:34  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:34:34  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:34:34  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:34:35  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:34:35  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:34:59  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:34:59  ----->  File exported successfully!!
+2022-04-10 / 15:39:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:39:44  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:39:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:39:45  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:39:45  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:39:45  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:40:08  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:40:08  ----->  File exported successfully!!
+2022-04-10 / 15:42:14  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:42:14  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:42:14  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:42:14  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:42:14  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:42:14  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:42:37  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:42:37  ----->  File exported successfully!!
+2022-04-10 / 15:44:54  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:44:54  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:44:54  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:44:55  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:44:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:44:55  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:45:17  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:45:17  ----->  File exported successfully!!
+2022-04-10 / 15:47:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:47:55  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:47:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:47:55  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:47:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:47:55  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:48:17  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:48:17  ----->  File exported successfully!!
+2022-04-10 / 15:53:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:53:48  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:53:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:53:48  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:53:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:53:48  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:54:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:54:11  ----->  File exported successfully!!
+2022-04-10 / 15:55:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:55:24  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:55:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:55:25  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:55:25  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:55:25  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:55:48  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:55:48  ----->  File exported successfully!!
+2022-04-10 / 15:57:26  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:57:26  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 15:57:26  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:57:26  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 15:57:26  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:57:26  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 15:57:49  ----->  Connection with the database Prediction.db made
+2022-04-10 / 15:57:49  ----->  File exported successfully!!
+2022-04-10 / 16:02:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:02:11  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:02:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:02:11  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:02:11  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:02:11  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 16:02:33  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:02:33  ----->  File exported successfully!!
+2022-04-10 / 16:04:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:04:24  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:04:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:04:24  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:04:24  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:04:24  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 16:04:47  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:04:47  ----->  File exported successfully!!
+2022-04-10 / 16:07:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:07:18  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:07:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:07:18  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:07:18  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:07:18  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 16:07:41  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:07:41  ----->  File exported successfully!!
+2022-04-10 / 16:10:22  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:10:22  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:10:22  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:10:22  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:10:23  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:10:23  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 16:10:44  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:10:44  ----->  File exported successfully!!
+2022-04-10 / 16:15:32  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:15:32  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:15:32  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:15:32  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:15:32  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:15:32  ----->  Mushroom_Data_22062022_103005.csv File loaded successfully!!
+2022-04-10 / 16:15:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:15:55  ----->  File exported successfully!!
+2022-04-10 / 16:17:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:17:55  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 16:17:55  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:17:55  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 16:17:56  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:17:56  ----->  Mushroom_Data_22062022_103005.csv File loaded successfully!!
+2022-04-10 / 16:18:19  ----->  Connection with the database Prediction.db made
+2022-04-10 / 16:18:19  ----->  File exported successfully!!

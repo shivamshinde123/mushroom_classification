@@ -139,7 +139,7 @@ class modelTraining:
                 Logger().log(f,f"Finding the best model for the cluster {i}")
 
                 # Here we will first check whether the label column of the cluster data contains more than 1 unique values since sklearn models require atleast 2 unique values.
-                # If the label column of the cluster data contains only one unique value then we will create a model which will return that unique value as prediction no matter
+                # If the label column of the cluster data contains only one unique value then we will create a model which will return that unique value as prediction output no matter
                 # what the input is. And otherwise the sklearn models will be used for the model training
                 if pd.DataFrame(y_train)['class'].nunique() == 1:
                     model_which_gives_same_value_everytime = ModelWithSameOutputEverytime().fit(X_train,y_train)

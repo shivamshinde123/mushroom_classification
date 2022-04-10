@@ -4,8 +4,10 @@ import pandas as pd
 from performLogging import Logger
 from sklearn.pipeline import Pipeline
 from sklearn.impute import KNNImputer, SimpleImputer
-from sklearn.preprocessing import OrdinalEncoder
+from sklearn.preprocessing import OrdinalEncoder, LabelEncoder
 import pathlib
+import pickle
+import json
 
 class TrainingPreprocessing:
 
@@ -55,7 +57,7 @@ class TrainingPreprocessing:
             df = pd.read_csv(os.path.join(path_of_fileFromDb,filename))
 
             X = df.drop(columns=['class'])
-            y = df['class']
+            y = pd.DataFrame(df['class'])
 
             return X, y
         
@@ -169,11 +171,59 @@ class TrainingPreprocessing:
                 ('encoder',OrdinalEncoder(handle_unknown=handle_unknown, unknown_value=unknown_value))
             ])
 
+
+            X, y = self.gettingDependentAndIndependentFeatures()
             # transforming data using created pipeline
-            df_transformed = pipeline.fit_transform(df)
+            X_transformed = pipeline.fit_transform(X)
+
+            le = LabelEncoder()
+            y_transformed = le.fit_transform(y.to_numpy().ravel())
+
+            # getting the path to the json file which will contain the encoding details
+            encoding_details_path = params['data_preprocessing']['encoding_details']
+
+            # if the directory is not already present then it needs to be created
+            if not os.path.exists(encoding_details_path):
+                os.makedirs(encoding_details_path)
+
+            # getting the dictionary containing info of what is encoded as what in independent features
+            for column in X.columns:
+                data = pd.DataFrame(X[column].values,columns=[column])
+                data["encoded_values"] = pipeline.fit_transform(X[column].values.reshape(-1,1))
+                data = data.drop_duplicates()
+                data = data.set_index(column)
+                encode_dict = data.to_dict()
+                encode_dict['encoded_values']['column_name'] = str(column)
+                with open(os.path.join(encoding_details_path,"encoding_details_independent_features.json"),"a") as g:
+                    json.dump(encode_dict, g, indent=2)
+
+            # getting the dictionary containing info of what is encoded as what in dependent feature
+            for column in y.columns:
+                data = pd.DataFrame(y[column].values,columns=[column])
+                data["encoded_values"] = le.fit_transform(y[column].values.reshape(-1,1))
+                data = data.drop_duplicates()
+                data = data.set_index(column)
+                encode_dict = data.to_dict()
+                encode_dict['encoded_values']['column_name'] = str(column)
+                with open(os.path.join(encoding_details_path,"encoding_details_dependent_feature.json"),"w") as h:
+                    json.dump(encode_dict, h, indent=2)
+  
+            # getting the directory to save the pipeline
+            pipeline_path = params['data_preprocessing']['pipeline_path']
+
+            # if the pipeline doesn't exist already, then we need to create it
+            if not os.path.exists(pipeline_path):
+                os.makedirs(pipeline_path)
+
+            # saving the pipeline in a pickle file
+            with open(os.path.join(pipeline_path,"preprocessingTrainingPipelineForIndependentFeatures.pkl"), "wb") as z:
+                pickle.dump(pipeline,z)
 
             # creating a dataframe out of the array 
-            df_transformed = pd.DataFrame(df_transformed, columns=df.columns)
+            independent_feature_columns = df.columns.values.tolist().remove('class')
+            X_transformed = pd.DataFrame(X_transformed, columns=independent_feature_columns)
+            y_transformed = pd.DataFrame(y_transformed, columns=['class'])
+            transformed_df = pd.concat([X_transformed, y_transformed],axis=1)
 
             transformed_data_path = params['data_preprocessing']['preprocessed_data_dir']
             transformed_data_filename = params['data_preprocessing']['preprocessed_data_filename']
@@ -183,7 +233,7 @@ class TrainingPreprocessing:
                 os.makedirs(transformed_data_path)
 
             # writing a transformed data to a csv file
-            df_transformed.to_csv(os.path.join(transformed_data_path,transformed_data_filename), header=True, index=False)
+            transformed_df.to_csv(os.path.join(transformed_data_path,transformed_data_filename), header=True, index=False)
 
             Logger().log(f, "Processing of the data completed successfully!")
         

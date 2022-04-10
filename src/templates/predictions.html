@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- <div class="container">
+    <h2 class="text-center text-success mt-5">Prediction file saved in the folder named "prediction_output_file_path"</h2>
+</div> -->
+
+<div class="container">
+    <div class="container">
+        <h1 class="my-5 text-danger">Mushroom Category Predictions Using Machine Learning Models</h1>
+    </div>
+    <table class="table table-striped table-info table-hover table-sm mt-5">
+        <thead>
+            <tr>
+                <th>cap-shape</th>
+                <th>cap-surface</th>
+                <th>cap-color</th>
+                <th>bruises</th>
+                <th>odor</th>
+                <th>gill-attachment</th>
+                <th>gill-spacing</th>
+                <th>gill-size</th>
+                <th>gill-color</th>
+                <th>stalk_-hape</th>
+                <th>stalk-root</th>
+                <th>stalk-surface-above-ring</th>
+                <th>stalk-surface-below-ring</th>
+                <th>stalk-color-above-ring</th>
+                <th>stalk-color-below-ring</th>
+                <th>veil-type</th>
+                <th>veil-color</th>
+                <th>ring-number</th>
+                <th>ring-type</th>
+                <th>spore-print-color</th>
+                <th>population</th>
+                <th>habitat</th>
+                <th>class</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for item in list: %}
+            <tr>
+                <td>{{ item['cap-shape'] }}</td>
+                <td>{{ item['cap-surface'] }}</td>
+                <td>{{ item['cap-color'] }}</td>
+                <td>{{ item['bruises'] }}</td>
+                <td>{{ item['odor'] }}</td>
+                <td>{{ item['gill-attachment'] }}</td>
+                <td>{{ item['gill-spacing'] }}</td>
+                <td>{{ item['gill-size'] }}</td>
+                <td>{{ item['gill-color'] }}</td>
+                <td>{{ item['stalk-shape'] }}</td>
+                <td>{{ item['stalk-root'] }}</td>
+                <td>{{ item['stalk-surface-above-ring'] }}</td>
+                <td>{{ item['stalk-surface-below-ring'] }}</td>
+                <td>{{ item['stalk-color-above-ring'] }}</td>
+                <td>{{ item['stalk-color-below-ring'] }}</td>
+                <td>{{ item['veil-type'] }}</td>
+                <td>{{ item['veil-color'] }}</td>
+                <td>{{ item['ring-number'] }}</td>
+                <td>{{ item['ring-type'] }}</td>
+                <td>{{ item['spore-print-color'] }}</td>
+                <td>{{ item['population'] }}</td>
+                <td>{{ item['habitat'] }}</td>
+                <td>{{ item['class'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</div>
+{% endblock %}

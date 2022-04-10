@@ -1,0 +1,1641 @@
+{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}{
+  "encoded_values": {
+    "x": 5.0,
+    "f": 2.0,
+    "k": 3.0,
+    "b": 0.0,
+    "s": 4.0,
+    "c": 1.0,
+    "column_name": "cap_shape"
+  }
+}{
+  "encoded_values": {
+    "y": 3.0,
+    "f": 0.0,
+    "s": 2.0,
+    "g": 1.0,
+    "column_name": "cap_surface"
+  }
+}{
+  "encoded_values": {
+    "n": 4.0,
+    "g": 3.0,
+    "e": 2.0,
+    "y": 9.0,
+    "w": 8.0,
+    "b": 0.0,
+    "p": 5.0,
+    "c": 1.0,
+    "u": 7.0,
+    "r": 6.0,
+    "column_name": "cap_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "f": 0.0,
+    "column_name": "bruises"
+  }
+}{
+  "encoded_values": {
+    "n": 5.0,
+    "f": 2.0,
+    "s": 7.0,
+    "l": 3.0,
+    "p": 6.0,
+    "y": 8.0,
+    "a": 0.0,
+    "c": 1.0,
+    "m": 4.0,
+    "column_name": "odor"
+  }
+}{
+  "encoded_values": {
+    "f": 1.0,
+    "a": 0.0,
+    "column_name": "gill_attachment"
+  }
+}{
+  "encoded_values": {
+    "c": 0.0,
+    "w": 1.0,
+    "column_name": "gill_spacing"
+  }
+}{
+  "encoded_values": {
+    "b": 0.0,
+    "n": 1.0,
+    "column_name": "gill_size"
+  }
+}{
+  "encoded_values": {
+    "u": 9.0,
+    "h": 3.0,
+    "b": 0.0,
+    "g": 2.0,
+    "n": 5.0,
+    "p": 7.0,
+    "k": 4.0,
+    "w": 10.0,
+    "e": 1.0,
+    "o": 6.0,
+    "r": 8.0,
+    "y": 11.0,
+    "column_name": "gill_color"
+  }
+}{
+  "encoded_values": {
+    "t": 1.0,
+    "e": 0.0,
+    "column_name": "stalk_shape"
+  }
+}{
+  "encoded_values": {
+    "b": 1.0,
+    "?": 0.0,
+    "c": 2.0,
+    "e": 3.0,
+    "r": 4.0,
+    "column_name": "stalk_root"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_above_ring"
+  }
+}{
+  "encoded_values": {
+    "s": 2.0,
+    "k": 1.0,
+    "f": 0.0,
+    "y": 3.0,
+    "column_name": "stalk_surface_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "b": 0.0,
+    "n": 4.0,
+    "g": 3.0,
+    "w": 7.0,
+    "o": 5.0,
+    "e": 2.0,
+    "c": 1.0,
+    "y": 8.0,
+    "column_name": "stalk_color_above_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 6.0,
+    "n": 4.0,
+    "w": 7.0,
+    "b": 0.0,
+    "g": 3.0,
+    "e": 2.0,
+    "o": 5.0,
+    "y": 8.0,
+    "c": 1.0,
+    "column_name": "stalk_color_below_ring"
+  }
+}{
+  "encoded_values": {
+    "p": 0.0,
+    "column_name": "veil_type"
+  }
+}{
+  "encoded_values": {
+    "w": 2.0,
+    "o": 1.0,
+    "n": 0.0,
+    "y": 3.0,
+    "column_name": "veil_color"
+  }
+}{
+  "encoded_values": {
+    "o": 1.0,
+    "t": 2.0,
+    "n": 0.0,
+    "column_name": "ring_number"
+  }
+}{
+  "encoded_values": {
+    "p": 4.0,
+    "l": 2.0,
+    "e": 0.0,
+    "f": 1.0,
+    "n": 3.0,
+    "column_name": "ring_type"
+  }
+}{
+  "encoded_values": {
+    "k": 2.0,
+    "h": 1.0,
+    "w": 7.0,
+    "u": 6.0,
+    "n": 3.0,
+    "r": 5.0,
+    "b": 0.0,
+    "o": 4.0,
+    "y": 8.0,
+    "column_name": "spore_print_color"
+  }
+}{
+  "encoded_values": {
+    "v": 4.0,
+    "y": 5.0,
+    "s": 3.0,
+    "n": 2.0,
+    "c": 1.0,
+    "a": 0.0,
+    "column_name": "population"
+  }
+}{
+  "encoded_values": {
+    "d": 0.0,
+    "p": 4.0,
+    "l": 2.0,
+    "u": 5.0,
+    "m": 3.0,
+    "g": 1.0,
+    "w": 6.0,
+    "column_name": "habitat"
+  }
+}

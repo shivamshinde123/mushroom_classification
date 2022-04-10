@@ -1,5 +1,5 @@
 import pathlib
-from flask import Flask, redirect, render_template, request, Response, url_for
+from flask import Flask, redirect, render_template, request, Response, url_for, session
 from predictionRawDataValidation import *
 from predictionRawDataTransformation import *
 from predictionDatabaseOperations import *
@@ -7,10 +7,14 @@ from predictionPreprocessing import *
 from Predictions_using_trained_model import *
 from model_methods import *
 from modeltraining import *
+import secrets
 
 
 app = Flask(__name__)
 
+secret = secrets.token_urlsafe(32)
+
+app.secret_key = secret
 
 
 @app.errorhandler(404)
@@ -28,15 +32,14 @@ def index():
     return render_template("index.html")
 
 
-@app.route('/results')
-def results():
-    return render_template('results.html')
+# @app.route('/results')
+# def results():
+#     return render_template('results.html')
 
 
 @app.route('/predictions', methods=['POST'])
 def prediction():
 
-    # try:
     if request.form is not None:
 
         path = request.form['folderpath']
@@ -110,12 +113,9 @@ def prediction():
         obj4 = predictionsUsingTheTrainedModels()
 
         # calling the method of class
-        obj4.predictUsingModel()
+        list = obj4.predictUsingModel()
 
-        return redirect(url_for('results'))
-
-    # except Exception as e:
-    #     return Response(f"Exception occurred while predicting the mushroom category using the saved models")
+        return render_template('predictions.html',list=list)
 
 
 if __name__ == '__main__':

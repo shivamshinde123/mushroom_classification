@@ -1408,3 +1408,1519 @@
 2022-04-08 / 21:48:02  ----->  Successfully found the name of the model for the cluster number 2
 2022-04-08 / 21:48:02  ----->  Loading the model StackingClassifier.pkl
 2022-04-08 / 21:48:02  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:16:35  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 02:16:35  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 02:16:36  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 02:16:36  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 02:16:36  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 02:16:36  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 02:16:36  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 02:16:36  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 02:16:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:16:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:16:37  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 02:16:37  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 02:16:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:16:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:16:37  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 02:16:37  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 02:16:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:16:38  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:16:38  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 02:16:38  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 02:16:38  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:16:38  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:18:06  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 02:18:06  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 02:18:06  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 02:18:06  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 02:18:06  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 02:18:06  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 02:18:06  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 02:18:06  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 02:18:06  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:18:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:18:07  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 02:18:07  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 02:18:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:18:07  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:18:07  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 02:18:07  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 02:18:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:18:07  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 02:18:07  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 02:18:07  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 02:18:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 02:18:07  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:36:15  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 11:36:15  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 11:36:15  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 11:36:15  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 11:36:15  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 11:36:15  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 11:36:15  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 11:36:15  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 11:36:16  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:36:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:36:17  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 11:36:17  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 11:36:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:36:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:36:17  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 11:36:17  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 11:36:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:36:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:36:17  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 11:36:17  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 11:36:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:36:18  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:45:40  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 11:45:40  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 11:45:40  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 11:45:40  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 11:45:40  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 11:45:40  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 11:45:41  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 11:45:41  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 11:45:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:45:41  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:45:41  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 11:45:41  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 11:45:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:45:41  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:45:41  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 11:45:41  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 11:45:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:45:41  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:45:41  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 11:45:41  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 11:45:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:45:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:57:00  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 11:57:00  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 11:57:00  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 11:57:00  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 11:57:00  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 11:57:00  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 11:57:00  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 11:57:00  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 11:57:01  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:57:01  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:57:01  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 11:57:01  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 11:57:01  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:57:01  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:57:01  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 11:57:01  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 11:57:01  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:57:01  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:57:01  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 11:57:01  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 11:57:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:57:02  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:58:49  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 11:58:49  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 11:58:49  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 11:58:49  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 11:58:49  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 11:58:49  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 11:58:49  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 11:58:49  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 11:58:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:58:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:58:50  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 11:58:50  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 11:58:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:58:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:58:50  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 11:58:50  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 11:58:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:58:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 11:58:50  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 11:58:50  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 11:58:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 11:58:51  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:47:33  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 12:47:33  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 12:47:33  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 12:47:33  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 12:47:33  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 12:47:33  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 12:47:33  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 12:47:33  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 12:47:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:47:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:47:35  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 12:47:35  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 12:47:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:47:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:47:35  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 12:47:35  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 12:47:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:47:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:47:35  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 12:47:35  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 12:47:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:47:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:51:48  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 12:51:48  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 12:51:48  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 12:51:48  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 12:51:48  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 12:51:48  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 12:51:48  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 12:51:48  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 12:51:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:51:49  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:51:49  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 12:51:49  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 12:51:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:51:49  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:51:50  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 12:51:50  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 12:51:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:51:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 12:51:50  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 12:51:50  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 12:51:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 12:51:51  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:48:32  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 17:48:32  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 17:48:32  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 17:48:32  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 17:48:33  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 17:48:33  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 17:48:33  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 17:48:33  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 17:48:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:48:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:48:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 17:48:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 17:48:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:48:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:48:34  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 17:48:34  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 17:48:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:48:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:48:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 17:48:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 17:48:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:48:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:56:36  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 17:56:36  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 17:56:36  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 17:56:36  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 17:56:36  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 17:56:36  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 17:56:36  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 17:56:36  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 17:56:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:56:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:56:37  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 17:56:37  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 17:56:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:56:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:56:37  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 17:56:37  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 17:56:38  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:56:38  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:56:38  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 17:56:38  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 17:56:38  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:56:38  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:58:05  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 17:58:05  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 17:58:05  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 17:58:05  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 17:58:05  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 17:58:05  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 17:58:05  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 17:58:05  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 17:58:05  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:58:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:58:06  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 17:58:06  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 17:58:06  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:58:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:58:06  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 17:58:06  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 17:58:06  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:58:07  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 17:58:07  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 17:58:07  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 17:58:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 17:58:07  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:06:33  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 18:06:33  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 18:06:33  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 18:06:33  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 18:06:33  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 18:06:33  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 18:06:33  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 18:06:33  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 18:06:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:06:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:06:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 18:06:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 18:06:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:06:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:06:35  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 18:06:35  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 18:06:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:06:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:06:35  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 18:06:35  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 18:06:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:06:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:07:59  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 18:07:59  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 18:07:59  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 18:07:59  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 18:07:59  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 18:07:59  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 18:07:59  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 18:07:59  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 18:07:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:07:59  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:07:59  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 18:07:59  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 18:08:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:08:00  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:08:00  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 18:08:00  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 18:08:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:08:00  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:08:00  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 18:08:00  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 18:08:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:08:00  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:10:44  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 18:10:44  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 18:10:44  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 18:10:44  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 18:10:44  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 18:10:44  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 18:10:44  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 18:10:44  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 18:10:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:10:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:10:44  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 18:10:44  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 18:10:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:10:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:10:44  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 18:10:44  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 18:10:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:10:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:10:44  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 18:10:44  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 18:10:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:10:45  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:13:43  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 18:13:43  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 18:13:43  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 18:13:43  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 18:13:43  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 18:13:43  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 18:13:43  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 18:13:43  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 18:13:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:13:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:13:44  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 18:13:44  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 18:13:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:13:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:13:44  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 18:13:44  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 18:13:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:13:44  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:13:45  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 18:13:45  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 18:13:45  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:13:45  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:14:36  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 18:14:36  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 18:14:36  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 18:14:36  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 18:14:36  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 18:14:36  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 18:14:36  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 18:14:36  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 18:14:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:14:36  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:14:36  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 18:14:36  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 18:14:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:14:36  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:14:36  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 18:14:36  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 18:14:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:14:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 18:14:37  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 18:14:37  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 18:14:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 18:14:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:00:33  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:00:33  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:00:33  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:00:33  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:00:33  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:00:33  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:00:33  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:00:33  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:00:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:00:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:00:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:00:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:00:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:00:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:00:34  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:00:35  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:00:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:00:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:00:35  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:00:35  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:00:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:00:35  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:14:18  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:14:18  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:14:18  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:14:18  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:14:18  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:14:18  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:14:18  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:14:18  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:14:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:14:20  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:14:20  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:14:20  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:14:20  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:14:20  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:14:20  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:14:20  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:14:20  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:14:20  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:14:20  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:14:20  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:14:20  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:14:20  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:18:08  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:18:08  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:18:08  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:18:08  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:18:08  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:18:08  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:18:08  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:18:08  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:18:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:18:08  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:18:08  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:18:08  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:18:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:18:08  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:18:08  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:18:08  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:18:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:18:08  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:18:08  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:18:08  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:18:09  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:18:09  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:24:42  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:24:42  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:24:42  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:24:42  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:24:42  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:24:42  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:24:42  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:24:42  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:24:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:24:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:24:42  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:24:42  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:24:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:24:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:24:42  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:24:42  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:24:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:24:43  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:24:43  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:24:43  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:24:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:24:43  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:27:40  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:27:40  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:27:41  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:27:41  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:27:41  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:27:41  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:27:41  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:27:41  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:27:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:27:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:27:42  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:27:42  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:27:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:27:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:27:42  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:27:42  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:27:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:27:42  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:27:42  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:27:42  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:27:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:27:43  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:29:15  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:29:15  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:29:16  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:29:16  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:29:16  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:29:16  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:29:16  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:29:16  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:29:16  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:29:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:29:17  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:29:17  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:29:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:29:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:29:17  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:29:17  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:29:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:29:17  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:29:17  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:29:17  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:29:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:29:18  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:31:36  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 20:31:36  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 20:31:36  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 20:31:36  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 20:31:36  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 20:31:36  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 20:31:36  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 20:31:36  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 20:31:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:31:36  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:31:36  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 20:31:36  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 20:31:36  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:31:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:31:37  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 20:31:37  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 20:31:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:31:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 20:31:37  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 20:31:37  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 20:31:37  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 20:31:37  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:20:04  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:20:04  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:20:04  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:20:04  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:20:04  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:20:04  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:20:04  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:20:04  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:20:04  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:20:04  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:20:04  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:20:04  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:20:04  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:20:04  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:20:05  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:20:05  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:20:05  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:20:05  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:20:05  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:20:05  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:20:05  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:20:05  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:21:48  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:21:48  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:21:48  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:21:48  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:21:48  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:21:48  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:21:48  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:21:48  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:21:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:21:48  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:21:48  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:21:48  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:21:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:21:48  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:21:48  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:21:48  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:21:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:21:48  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:21:48  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:21:48  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:21:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:21:49  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:22:51  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:22:51  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:22:52  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:22:52  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:22:52  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:22:52  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:22:52  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:22:52  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:22:52  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:22:53  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:22:53  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:22:53  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:22:53  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:22:53  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:22:53  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:22:53  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:22:53  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:22:53  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:22:53  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:22:53  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:22:53  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:22:54  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:24:23  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:24:23  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:24:23  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:24:23  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:24:23  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:24:23  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:24:23  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:24:23  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:24:23  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:24:24  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:24:24  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:24:24  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:24:24  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:24:24  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:24:24  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:24:24  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:24:24  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:24:25  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:24:25  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:24:25  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:24:25  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:24:25  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:28:48  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:28:48  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:28:48  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:28:48  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:28:48  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:28:48  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:28:48  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:28:48  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:28:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:28:49  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:28:49  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:28:49  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:28:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:28:49  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:28:50  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:28:50  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:28:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:28:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:28:50  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:28:50  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:28:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:28:50  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:43:32  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:43:32  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:43:32  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:43:32  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:43:32  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:43:32  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:43:32  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:43:32  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:43:32  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:43:33  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:43:33  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:43:33  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:43:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:43:33  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:43:33  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:43:33  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:43:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:43:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:43:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:43:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:43:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:43:34  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:47:19  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:47:19  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:47:19  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:47:19  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:47:19  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:47:19  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:47:19  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:47:19  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:47:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:47:20  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:47:21  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:47:21  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:47:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:47:21  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:47:21  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:47:21  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:47:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:47:21  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:47:21  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:47:21  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:47:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:47:22  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:49:20  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:49:20  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:49:20  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:49:20  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:49:20  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:49:20  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:49:21  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:49:21  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:49:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:49:22  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:49:22  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:49:22  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:49:22  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:49:22  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:49:22  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:49:22  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:49:22  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:49:22  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:49:23  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:49:23  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:49:23  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:49:23  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:54:04  ----->  Loading the model KMeansCluster.pkl
+2022-04-09 / 22:54:04  ----->  Model KMeansCluster loaded successfully
+2022-04-09 / 22:54:05  ----->  Finding the appropriate model for cluster number 3
+2022-04-09 / 22:54:05  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-09 / 22:54:05  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-09 / 22:54:05  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-09 / 22:54:05  ----->  Finding the appropriate model for cluster number 4
+2022-04-09 / 22:54:05  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-09 / 22:54:05  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:54:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:54:06  ----->  Finding the appropriate model for cluster number 0
+2022-04-09 / 22:54:06  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-09 / 22:54:06  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:54:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:54:06  ----->  Finding the appropriate model for cluster number 1
+2022-04-09 / 22:54:06  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-09 / 22:54:06  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:54:06  ----->  Model StackingClassifier loaded successfully
+2022-04-09 / 22:54:07  ----->  Finding the appropriate model for cluster number 2
+2022-04-09 / 22:54:07  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-09 / 22:54:07  ----->  Loading the model StackingClassifier.pkl
+2022-04-09 / 22:54:07  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 00:19:17  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 00:19:17  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 00:19:19  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 00:19:19  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 00:19:19  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 00:19:19  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 00:19:19  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 00:19:19  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 00:19:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 00:19:20  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 00:19:21  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 00:19:21  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 00:19:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 00:19:21  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 00:19:21  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 00:19:21  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 00:19:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 00:19:21  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 00:19:21  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 00:19:21  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 00:19:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 00:19:22  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:14:32  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 01:14:32  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 01:14:32  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 01:14:32  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 01:14:32  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 01:14:32  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 01:14:32  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 01:14:32  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 01:14:32  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:14:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:14:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 01:14:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 01:14:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:14:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:14:34  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 01:14:34  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 01:14:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:14:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:14:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 01:14:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 01:14:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:14:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:19:57  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 01:19:57  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 01:19:57  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 01:19:57  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 01:19:57  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 01:19:57  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 01:19:57  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 01:19:57  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 01:19:57  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:19:58  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:19:58  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 01:19:58  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 01:19:58  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:19:58  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:19:58  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 01:19:58  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 01:19:58  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:19:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 01:19:59  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 01:19:59  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 01:19:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 01:19:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:18:45  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:18:45  ----->  Model KMeans(n_clusters=5, random_state=38497) saved successfully in models\ClusteringModel
+2022-04-10 / 14:21:30  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:21:30  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.01,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mon...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo2
+2022-04-10 / 14:21:30  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:21:30  ----->  Model ModelWithSameOutputEverytime() saved successfully in models\ModelForClusterNo3
+2022-04-10 / 14:25:44  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:25:44  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo0
+2022-04-10 / 14:33:41  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:33:41  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=0.001,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mo...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.001,
+                                                 max_delta_step=0, max_depth=4,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=10, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo4
+2022-04-10 / 14:35:20  ----->  Saving the created model into the python pickle file
+2022-04-10 / 14:35:20  ----->  Model StackingClassifier(estimators=[('vc',
+                                VotingClassifier(estimators=[('abr',
+                                                              XGBClassifier(base_score=0.5,
+                                                                            booster='gbtree',
+                                                                            colsample_bylevel=1,
+                                                                            colsample_bynode=1,
+                                                                            colsample_bytree=1,
+                                                                            enable_categorical=False,
+                                                                            gamma=0,
+                                                                            gpu_id=-1,
+                                                                            importance_type=None,
+                                                                            interaction_constraints='',
+                                                                            learning_rate=1.0,
+                                                                            max_delta_step=0,
+                                                                            max_depth=6,
+                                                                            min_child_weight=1,
+                                                                            missing=nan,
+                                                                            mono...
+                                                 gamma=0, gpu_id=-1,
+                                                 importance_type=None,
+                                                 interaction_constraints='',
+                                                 learning_rate=0.1,
+                                                 max_delta_step=0, max_depth=2,
+                                                 min_child_weight=1,
+                                                 missing=nan,
+                                                 monotone_constraints='()',
+                                                 n_estimators=200, n_jobs=8,
+                                                 num_parallel_tree=1,
+                                                 predictor='auto',
+                                                 random_state=0, reg_alpha=0,
+                                                 reg_lambda=1,
+                                                 scale_pos_weight=1,
+                                                 subsample=1,
+                                                 tree_method='exact',
+                                                 validate_parameters=1,
+                                                 verbosity=None)) saved successfully in models\ModelForClusterNo1
+2022-04-10 / 14:46:42  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 14:46:42  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 14:46:42  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 14:46:42  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 14:46:42  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 14:46:42  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 14:46:42  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 14:46:42  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 14:46:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:46:43  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:46:43  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 14:46:43  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 14:46:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:46:43  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:46:43  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 14:46:43  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 14:46:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:46:44  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:46:44  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 14:46:44  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 14:46:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:46:44  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:49:29  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 14:49:29  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 14:49:29  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 14:49:29  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 14:49:29  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 14:49:29  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 14:49:29  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 14:49:29  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 14:49:29  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:49:29  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:49:29  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 14:49:29  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 14:49:29  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:49:29  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:49:30  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 14:49:30  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 14:49:30  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:49:30  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:49:30  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 14:49:30  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 14:49:30  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:49:30  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:54:17  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 14:54:17  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 14:54:18  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 14:54:18  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 14:54:18  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 14:54:18  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 14:54:18  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 14:54:18  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 14:54:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:54:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:54:18  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 14:54:18  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 14:54:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:54:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:54:18  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 14:54:18  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 14:54:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:54:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:54:18  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 14:54:18  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 14:54:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:54:19  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:55:59  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 14:55:59  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 14:55:59  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 14:55:59  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 14:55:59  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 14:55:59  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 14:55:59  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 14:55:59  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 14:55:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:55:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:55:59  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 14:55:59  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 14:55:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:55:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:56:00  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 14:56:00  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 14:56:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:56:00  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:56:00  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 14:56:00  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 14:56:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:56:00  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:59:40  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 14:59:40  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 14:59:41  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 14:59:41  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 14:59:41  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 14:59:41  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 14:59:41  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 14:59:41  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 14:59:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:59:41  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:59:41  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 14:59:41  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 14:59:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:59:41  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:59:41  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 14:59:41  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 14:59:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:59:41  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 14:59:41  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 14:59:41  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 14:59:41  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 14:59:42  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:01:01  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:01:01  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:01:01  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:01:01  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:01:01  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:01:01  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:01:02  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:01:02  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:01:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:01:02  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:01:02  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:01:02  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:01:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:01:02  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:01:02  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:01:02  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:01:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:01:02  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:01:02  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:01:02  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:01:02  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:01:03  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:09:46  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:09:46  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:09:46  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:09:46  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:09:46  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:09:46  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:09:46  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:09:46  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:09:46  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:09:47  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:09:47  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:09:47  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:09:47  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:09:47  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:09:47  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:09:47  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:09:47  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:09:48  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:09:48  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:09:48  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:09:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:09:48  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:12:32  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:12:32  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:12:32  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:12:32  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:12:32  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:12:32  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:12:32  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:12:32  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:12:32  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:12:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:12:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:12:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:12:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:12:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:12:34  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:12:34  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:12:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:12:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:12:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:12:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:12:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:12:35  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:14:10  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:14:10  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:14:11  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:14:11  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:14:11  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:14:11  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:14:11  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:14:11  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:14:11  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:14:12  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:14:12  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:14:12  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:14:12  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:14:12  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:14:12  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:14:12  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:14:12  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:14:12  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:14:12  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:14:12  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:14:12  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:14:13  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:15:47  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:15:47  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:15:47  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:15:47  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:15:47  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:15:47  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:15:47  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:15:47  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:15:47  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:15:48  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:15:49  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:15:49  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:15:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:15:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:15:49  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:15:49  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:15:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:15:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:15:49  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:15:49  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:15:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:15:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:24:09  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:24:09  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:24:10  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:24:10  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:24:10  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:24:10  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:24:10  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:24:10  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:24:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:24:11  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:24:11  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:24:11  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:24:11  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:24:11  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:24:11  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:24:11  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:24:11  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:24:11  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:24:11  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:24:11  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:24:11  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:24:12  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:27:08  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:27:08  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:27:08  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:27:08  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:27:08  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:27:08  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:27:08  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:27:08  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:27:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:27:09  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:27:10  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:27:10  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:27:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:27:10  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:27:10  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:27:10  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:27:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:27:10  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:27:10  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:27:10  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:27:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:27:10  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:31:33  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:31:33  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:31:33  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:31:33  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:31:33  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:31:33  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:31:33  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:31:33  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:31:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:31:33  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:31:33  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:31:33  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:31:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:31:33  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:31:33  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:31:33  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:31:33  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:31:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:31:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:31:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:31:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:31:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:34:59  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:34:59  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:34:59  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:34:59  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:34:59  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:34:59  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:34:59  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:34:59  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:34:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:34:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:34:59  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:34:59  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:34:59  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:34:59  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:34:59  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:34:59  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:35:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:35:00  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:35:00  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:35:00  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:35:00  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:35:00  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:40:08  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:40:08  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:40:08  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:40:08  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:40:08  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:40:08  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:40:08  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:40:08  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:40:08  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:40:09  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:40:09  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:40:09  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:40:09  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:40:09  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:40:10  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:40:10  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:40:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:40:10  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:40:10  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:40:10  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:40:10  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:40:10  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:42:37  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:42:37  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:42:38  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:42:38  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:42:38  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:42:38  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:42:38  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:42:38  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:42:38  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:42:39  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:42:39  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:42:39  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:42:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:42:39  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:42:39  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:42:39  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:42:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:42:39  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:42:39  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:42:39  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:42:39  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:42:40  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:45:17  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:45:17  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:45:17  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:45:17  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:45:17  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:45:17  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:45:17  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:45:17  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:45:17  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:45:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:45:19  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:45:19  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:45:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:45:19  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:45:19  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:45:19  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:45:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:45:19  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:45:19  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:45:19  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:45:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:45:19  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:48:18  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:48:18  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:48:18  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:48:18  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:48:18  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:48:18  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:48:18  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:48:18  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:48:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:48:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:48:18  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:48:18  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:48:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:48:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:48:18  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:48:18  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:48:18  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:48:18  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:48:19  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:48:19  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:48:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:48:19  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:54:11  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:54:11  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:54:12  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:54:12  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:54:12  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:54:12  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:54:12  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:54:12  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:54:12  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:54:13  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:54:13  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:54:13  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:54:13  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:54:13  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:54:13  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:54:13  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:54:13  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:54:13  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:54:13  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:54:14  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:54:14  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:54:14  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:55:48  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:55:48  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:55:48  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:55:48  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:55:49  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:55:49  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:55:49  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:55:49  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:55:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:55:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:55:50  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:55:50  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:55:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:55:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:55:50  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:55:50  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:55:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:55:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:55:50  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:55:50  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:55:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:55:51  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:57:49  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 15:57:49  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 15:57:49  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 15:57:49  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 15:57:49  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 15:57:49  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 15:57:49  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 15:57:49  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 15:57:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:57:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:57:50  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 15:57:50  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 15:57:50  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:57:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:57:51  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 15:57:51  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 15:57:51  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:57:51  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 15:57:51  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 15:57:51  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 15:57:51  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 15:57:51  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:02:34  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:02:34  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:02:34  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:02:34  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:02:34  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:02:34  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:02:34  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:02:34  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:02:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:02:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:02:34  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:02:34  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:02:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:02:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:02:34  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:02:34  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:02:34  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:02:34  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:02:34  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:02:34  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:02:35  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:02:35  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:04:47  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:04:47  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:04:48  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:04:48  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:04:48  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:04:48  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:04:48  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:04:48  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:04:48  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:04:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:04:49  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:04:49  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:04:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:04:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:04:49  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:04:49  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:04:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:04:49  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:04:49  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:04:49  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:04:49  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:04:50  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:07:41  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:07:41  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:07:42  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:07:42  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:07:42  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:07:42  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:07:42  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:07:42  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:07:42  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:07:43  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:07:43  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:07:43  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:07:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:07:43  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:07:43  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:07:43  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:07:43  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:07:43  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:07:43  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:07:43  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:07:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:07:44  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:10:44  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:10:44  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:10:44  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:10:44  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:10:44  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:10:44  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:10:44  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:10:44  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:10:44  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:10:45  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:10:46  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:10:46  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:10:46  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:10:46  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:10:46  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:10:46  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:10:46  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:10:46  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:10:46  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:10:46  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:10:46  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:10:46  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:15:55  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:15:55  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:15:55  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:15:55  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:15:55  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:15:55  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:15:55  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:15:55  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:15:55  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:15:56  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:15:56  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:15:56  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:15:56  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:15:57  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:15:57  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:15:57  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:15:57  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:15:57  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:15:57  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:15:57  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:15:57  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:15:57  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:18:19  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 16:18:19  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 16:18:19  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 16:18:19  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 16:18:19  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 16:18:19  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 16:18:19  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 16:18:19  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 16:18:19  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:18:20  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:18:20  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 16:18:20  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 16:18:20  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:18:20  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:18:21  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 16:18:21  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 16:18:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:18:21  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 16:18:21  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 16:18:21  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 16:18:21  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 16:18:21  ----->  Model StackingClassifier loaded successfully
