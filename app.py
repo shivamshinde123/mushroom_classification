@@ -1,15 +1,14 @@
 import pathlib
 from flask import Flask, redirect, render_template, request, Response, url_for, session
-from predictionRawDataValidation import *
-from predictionRawDataTransformation import *
-from predictionDatabaseOperations import *
-from predictionPreprocessing import *
-from Predictions_using_trained_model import *
-from model_methods import *
-from modeltraining import *
 import secrets
 
-
+from src.Predictions_using_trained_model import predictionsUsingTheTrainedModels
+from src.predictionDatabaseOperations import PredictionDBOperations
+from src.predictionPreprocessing import PredictionPreprocessing
+from src.predictionRawDataTransformation import RawPredictionDataTransformation
+from src.predictionRawDataValidation import PredictionRawDataValidation
+from src.modeltraining import *
+from src.model_methods import *
 app = Flask(__name__)
 
 secret = secrets.token_urlsafe(32)
