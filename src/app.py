@@ -10,6 +10,8 @@ from predictionRawDataTransformation import RawPredictionDataTransformation
 from predictionRawDataValidation import PredictionRawDataValidation
 from modeltraining import *
 from model_methods import *
+from performLogging import * 
+
 app = Flask(__name__)
 
 secret = secrets.token_urlsafe(32)
