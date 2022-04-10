@@ -6,6 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OrdinalEncoder
 import pathlib
+import pickle
 
 class PredictionPreprocessing:
 
@@ -154,20 +155,29 @@ class PredictionPreprocessing:
             # getting the dataframe
             df = pd.read_csv(os.path.join(path_of_fileFromDb,filename))
 
-            # parameters for the knn imputer
-            missing_values = params['data_preprocessing']['SimpleImputer']['missing_values']
-            strategy = params['data_preprocessing']['SimpleImputer']['strategy']
+            # # parameters for the knn imputer
+            # missing_values = params['data_preprocessing']['SimpleImputer']['missing_values']
+            # strategy = params['data_preprocessing']['SimpleImputer']['strategy']
 
 
-            # parameters for the ordianl encoding 
-            handle_unknown = params['data_preprocessing']['OrdinalEncoder']['handle_unknown']
-            unknown_value = params['data_preprocessing']['OrdinalEncoder']['unknown_value']
+            # # parameters for the ordianl encoding 
+            # handle_unknown = params['data_preprocessing']['OrdinalEncoder']['handle_unknown']
+            # unknown_value = params['data_preprocessing']['OrdinalEncoder']['unknown_value']
 
-            # creating pipeline
-            pipeline = Pipeline([
-                ('imputor',SimpleImputer(strategy=strategy, missing_values=missing_values)),
-                ('encoder',OrdinalEncoder(handle_unknown=handle_unknown, unknown_value=unknown_value))
-            ])
+            # # creating pipeline
+            # pipeline = Pipeline([
+            #     ('imputor',SimpleImputer(strategy=strategy, missing_values=missing_values)),
+            #     ('encoder',OrdinalEncoder(handle_unknown=handle_unknown, unknown_value=unknown_value))
+            # ])
+
+            # loading the traning pipeline
+            pipeline_path = params['data_preprocessing']['pipeline_path']
+
+            if not os.path.exists(pipeline_path):
+                os.makedirs(pipeline_path)
+
+            with open(os.path.join(pipeline_path,"preprocessingTrainingPipelineForIndependentFeatures.pkl"), "rb") as z:
+                pipeline = pickle.load(z)
 
             # transforming data using created pipeline
             df_transformed = pipeline.fit_transform(df)
