@@ -89,3 +89,9 @@ target/
 .mypy_cache/
 /models
 /mlruns
+/TrainingLogs
+/PredictionLogs/
+/notebooks
+/docs
+/references
+/reports
