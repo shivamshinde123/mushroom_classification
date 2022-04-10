@@ -48,3 +48,135 @@
 2022-04-08 / 21:46:38  ----->  Processing of the data completed successfully!
 2022-04-08 / 21:48:00  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
 2022-04-08 / 21:48:00  ----->  Processing of the data completed successfully!
+2022-04-09 / 02:16:35  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 02:16:35  ----->  Processing of the data completed successfully!
+2022-04-09 / 02:18:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 02:18:06  ----->  Processing of the data completed successfully!
+2022-04-09 / 11:36:15  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 11:36:15  ----->  Processing of the data completed successfully!
+2022-04-09 / 11:38:03  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 11:38:03  ----->  Exception occurred while preprocessing a prediction data. Exception: Found array with 0 sample(s) (shape=(0, 22)) while a minimum of 1 is required.
+2022-04-09 / 11:45:40  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 11:45:40  ----->  Processing of the data completed successfully!
+2022-04-09 / 11:57:00  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 11:57:00  ----->  Processing of the data completed successfully!
+2022-04-09 / 11:58:49  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 11:58:49  ----->  Processing of the data completed successfully!
+2022-04-09 / 12:47:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 12:47:33  ----->  Processing of the data completed successfully!
+2022-04-09 / 12:51:47  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 12:51:48  ----->  Processing of the data completed successfully!
+2022-04-09 / 17:48:32  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 17:48:32  ----->  Processing of the data completed successfully!
+2022-04-09 / 17:56:36  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 17:56:36  ----->  Processing of the data completed successfully!
+2022-04-09 / 17:58:05  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 17:58:05  ----->  Processing of the data completed successfully!
+2022-04-09 / 18:06:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 18:06:33  ----->  Processing of the data completed successfully!
+2022-04-09 / 18:07:59  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 18:07:59  ----->  Processing of the data completed successfully!
+2022-04-09 / 18:10:43  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 18:10:44  ----->  Processing of the data completed successfully!
+2022-04-09 / 18:13:43  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 18:13:43  ----->  Processing of the data completed successfully!
+2022-04-09 / 18:14:36  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 18:14:36  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:00:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:00:33  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:14:18  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:14:18  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:18:07  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:18:08  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:24:42  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:24:42  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:27:40  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:27:40  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:29:15  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:29:15  ----->  Processing of the data completed successfully!
+2022-04-09 / 20:31:36  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 20:31:36  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:20:04  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:20:04  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:21:47  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:21:48  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:22:51  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:22:51  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:24:22  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:24:22  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:28:48  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:28:48  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:43:32  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:43:32  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:47:19  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:47:19  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:49:20  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:49:20  ----->  Processing of the data completed successfully!
+2022-04-09 / 22:54:04  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-09 / 22:54:04  ----->  Processing of the data completed successfully!
+2022-04-10 / 00:19:14  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 00:19:17  ----->  Processing of the data completed successfully!
+2022-04-10 / 01:14:32  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 01:14:32  ----->  Processing of the data completed successfully!
+2022-04-10 / 01:19:57  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 01:19:57  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:41:08  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:41:08  ----->  Exception occurred while preprocessing a prediction data. Exception: [Errno 2] No such file or directory: 'Pipelines\\preprocessingTrainingPipeline.pkl'
+2022-04-10 / 14:42:41  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:42:41  ----->  Exception occurred while preprocessing a prediction data. Exception: [Errno 2] No such file or directory: 'Pipelines\\preprocessingTrainingPipeline.pkl'
+2022-04-10 / 14:44:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:44:06  ----->  Exception occurred while preprocessing a prediction data. Exception: [Errno 2] No such file or directory: 'Pipelines\\preprocessingTrainingPipeline.pkl'
+2022-04-10 / 14:46:42  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:46:42  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:49:29  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:49:29  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:54:17  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:54:17  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:55:59  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:55:59  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:59:40  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:59:40  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:01:01  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:01:01  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:09:46  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:09:46  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:12:32  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:12:32  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:14:10  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:14:10  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:15:47  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:15:47  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:24:09  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:24:09  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:27:08  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:27:08  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:31:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:31:33  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:34:59  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:34:59  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:40:08  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:40:08  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:42:37  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:42:37  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:45:17  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:45:17  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:48:18  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:48:18  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:54:11  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:54:11  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:55:48  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:55:48  ----->  Processing of the data completed successfully!
+2022-04-10 / 15:57:49  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 15:57:49  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:02:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:02:34  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:04:47  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:04:47  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:07:41  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:07:41  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:10:44  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:10:44  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:15:55  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:15:55  ----->  Processing of the data completed successfully!
+2022-04-10 / 16:18:19  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 16:18:19  ----->  Processing of the data completed successfully!

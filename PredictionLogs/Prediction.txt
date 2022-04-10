@@ -21,3 +21,65 @@
 2022-04-08 / 21:45:48  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
 2022-04-08 / 21:46:39  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
 2022-04-08 / 21:48:02  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 02:16:38  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 02:18:08  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 11:36:18  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 11:45:42  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 11:57:02  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 11:58:51  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 12:47:35  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 12:51:51  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 17:48:35  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 17:56:38  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 17:58:07  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 18:06:36  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 18:08:01  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 18:10:45  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 18:13:45  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 18:14:37  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:00:35  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:14:21  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:18:09  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:24:44  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:27:43  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: 'Index-column'
+2022-04-09 / 20:29:18  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 20:31:38  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:20:06  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:21:50  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:22:54  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:24:26  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:28:51  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:43:34  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:47:22  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:49:24  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-09 / 22:54:08  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 00:19:22  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 01:14:35  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 01:19:59  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 14:46:44  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 14:49:30  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 14:54:19  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 14:56:00  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 14:59:42  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 15:01:03  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: not readable
+2022-04-10 / 15:09:48  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: string indices must be integers
+2022-04-10 / 15:12:35  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: 'class'
+2022-04-10 / 15:14:14  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:15:50  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:24:12  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:27:11  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:31:34  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:35:01  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:40:11  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:42:40  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:45:20  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:48:19  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:54:14  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: string indices must be integers
+2022-04-10 / 15:55:51  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 15:57:52  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 16:02:35  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 16:04:50  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 16:07:44  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 16:10:47  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 16:15:57  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: Extra data: line 7 column 2 (char 80)
+2022-04-10 / 16:18:22  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv

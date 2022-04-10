@@ -261,3 +261,24 @@
 2022-04-08 / 20:06:56  ----->  Finding the best model for the cluster 1
 2022-04-08 / 20:08:23  ----->  Training of the machine learning model for the data cluster 1 successfully completed
 2022-04-08 / 20:08:23  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************
+2022-04-10 / 14:18:42  ----->  *************MACHINE LEARNING MODEL TRAINING FOR ALL THE CLUSTERS STARTED**************
+2022-04-10 / 14:18:42  ----->  Getting training preprocessed data.
+2022-04-10 / 14:18:42  ----->  Got training preprocessed data
+2022-04-10 / 14:18:42  ----->  Training_Clustering of the data started!!
+2022-04-10 / 14:18:45  ----->  Training_Clustering of the data completed!!
+2022-04-10 / 14:18:45  ----->  *************for the cluster number 2**************
+2022-04-10 / 14:18:45  ----->  Finding the best model for the cluster 2
+2022-04-10 / 14:21:30  ----->  Training of the machine learning model for the data cluster 2 successfully completed
+2022-04-10 / 14:21:30  ----->  *************for the cluster number 3**************
+2022-04-10 / 14:21:30  ----->  Finding the best model for the cluster 3
+2022-04-10 / 14:21:30  ----->  Training of the machine learning model for the data cluster 3 successfully completed
+2022-04-10 / 14:21:30  ----->  *************for the cluster number 0**************
+2022-04-10 / 14:21:30  ----->  Finding the best model for the cluster 0
+2022-04-10 / 14:25:44  ----->  Training of the machine learning model for the data cluster 0 successfully completed
+2022-04-10 / 14:25:44  ----->  *************for the cluster number 4**************
+2022-04-10 / 14:25:44  ----->  Finding the best model for the cluster 4
+2022-04-10 / 14:33:41  ----->  Training of the machine learning model for the data cluster 4 successfully completed
+2022-04-10 / 14:33:41  ----->  *************for the cluster number 1**************
+2022-04-10 / 14:33:41  ----->  Finding the best model for the cluster 1
+2022-04-10 / 14:35:20  ----->  Training of the machine learning model for the data cluster 1 successfully completed
+2022-04-10 / 14:35:20  ----->  ***************MACHINE LEARNING MODEL TRAINING FOR ALL CLUSTERS COMPLETED SUCCESSFULLY*************

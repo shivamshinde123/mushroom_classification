@@ -1,2 +1,82 @@
 2022-04-03 / 19:40:07  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
 2022-04-03 / 19:40:07  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:17:19  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:17:20  ----->  Exception occurred while preprocessing a training data. Exception: Expected 2D array, got 1D array instead:
+array=['e' 'p' 'p' ... 'p' 'p' 'p'].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2022-04-10 / 02:18:22  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:18:22  ----->  Exception occurred while preprocessing a training data. Exception: Expected 2D array, got 1D array instead:
+array=['e' 'p' 'p' ... 'p' 'p' 'p'].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2022-04-10 / 02:19:32  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:19:32  ----->  Exception occurred while preprocessing a training data. Exception: [Errno 2] No such file or directory: 'encoding_details\\encoding_details.json'
+2022-04-10 / 02:21:33  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:21:33  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:24:29  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:24:29  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:26:07  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:26:07  ----->  Exception occurred while preprocessing a training data. Exception: keep must be either "first", "last" or False
+2022-04-10 / 02:29:15  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:29:16  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:29:35  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:29:36  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:31:28  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:31:28  ----->  Exception occurred while preprocessing a training data. Exception: Cannot set a frame with no defined index and a value that cannot be converted to a Series
+2022-04-10 / 02:37:54  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:37:54  ----->  Exception occurred while preprocessing a training data. Exception: "None of ['class'] are in the columns"
+2022-04-10 / 02:38:42  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:38:42  ----->  Exception occurred while preprocessing a training data. Exception: "['class'] not found in axis"
+2022-04-10 / 02:42:11  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:42:11  ----->  Exception occurred while preprocessing a training data. Exception: "['class'] not found in axis"
+2022-04-10 / 02:45:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:45:07  ----->  Exception occurred while preprocessing a training data. Exception: "['class'] not found in axis"
+2022-04-10 / 02:46:44  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:46:44  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:47:04  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:47:04  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:47:49  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:47:49  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:48:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:48:06  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:48:57  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:48:58  ----->  Processing of the data completed successfully!
+2022-04-10 / 02:49:52  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 02:49:53  ----->  Processing of the data completed successfully!
+2022-04-10 / 13:06:01  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:06:02  ----->  Exception occurred while preprocessing a training data. Exception: Shape of passed values is (6499, 22), indices imply (6499, 23)
+2022-04-10 / 13:09:06  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:09:07  ----->  Exception occurred while preprocessing a training data. Exception: 'Index' object has no attribute 'remove'
+2022-04-10 / 13:35:56  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:35:56  ----->  Exception occurred while preprocessing a training data. Exception: 'Index' object has no attribute 'remove'
+2022-04-10 / 13:48:53  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:48:53  ----->  Exception occurred while preprocessing a training data. Exception: 'DataFrame' object has no attribute 'Dataframe'
+2022-04-10 / 13:50:07  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:50:08  ----->  Exception occurred while preprocessing a training data. Exception: module 'pandas' has no attribute 'Dataframe'
+2022-04-10 / 13:50:28  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 13:50:29  ----->  Exception occurred while preprocessing a training data. Exception: LabelEncoder.fit_transform() takes 2 positional arguments but 3 were given
+2022-04-10 / 14:00:04  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:00:04  ----->  Exception occurred while preprocessing a training data. Exception: LabelEncoder.fit_transform() takes 2 positional arguments but 3 were given
+2022-04-10 / 14:03:44  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:03:44  ----->  Exception occurred while preprocessing a training data. Exception: name 'pipeline1' is not defined
+2022-04-10 / 14:04:14  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:04:14  ----->  Exception occurred while preprocessing a training data. Exception: 'Index' object has no attribute 'remove'
+2022-04-10 / 14:06:48  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:06:48  ----->  Exception occurred while preprocessing a training data. Exception: 'Index' object has no attribute 'remove'
+2022-04-10 / 14:09:47  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:09:47  ----->  Exception occurred while preprocessing a training data. Exception: local variable 'y_transformed' referenced before assignment
+2022-04-10 / 14:11:05  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:11:06  ----->  Exception occurred while preprocessing a training data. Exception: first argument must be an iterable of pandas objects, you passed an object of type "DataFrame"
+2022-04-10 / 14:11:36  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:11:37  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:12:41  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:12:41  ----->  Exception occurred while preprocessing a training data. Exception: 'DataFrame' object has no attribute 'ravel'
+2022-04-10 / 14:13:08  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:13:08  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:14:41  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:14:41  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:15:03  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:15:03  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:15:26  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:15:26  ----->  Processing of the data completed successfully!
+2022-04-10 / 14:16:15  ----->  The ? value from the feature column named stalk-root replaced with 'b' successfully!
+2022-04-10 / 14:16:15  ----->  Processing of the data completed successfully!
