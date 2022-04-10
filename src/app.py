@@ -3,13 +3,13 @@ from flask import Flask, redirect, render_template, request, Response, url_for, 
 import secrets
 import json
 
-from src.Predictions_using_trained_model import predictionsUsingTheTrainedModels
-from src.predictionDatabaseOperations import PredictionDBOperations
-from src.predictionPreprocessing import PredictionPreprocessing
-from src.predictionRawDataTransformation import RawPredictionDataTransformation
-from src.predictionRawDataValidation import PredictionRawDataValidation
-from src.modeltraining import *
-from src.model_methods import *
+from Predictions_using_trained_model import predictionsUsingTheTrainedModels
+from predictionDatabaseOperations import PredictionDBOperations
+from predictionPreprocessing import PredictionPreprocessing
+from predictionRawDataTransformation import RawPredictionDataTransformation
+from predictionRawDataValidation import PredictionRawDataValidation
+from modeltraining import *
+from model_methods import *
 app = Flask(__name__)
 
 secret = secrets.token_urlsafe(32)
