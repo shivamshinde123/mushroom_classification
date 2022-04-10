@@ -83,3 +83,4 @@
 2022-04-10 / 16:10:47  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
 2022-04-10 / 16:15:57  ----->  Exception occurred while predicting the mushroom category using the saved models. Exception: Extra data: line 7 column 2 (char 80)
 2022-04-10 / 16:18:22  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv
+2022-04-10 / 18:07:25  ----->  Prediction results placed at the path: Prediction_Output_File\Predictions.csv

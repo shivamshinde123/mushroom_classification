@@ -715,3 +715,11 @@
 2022-04-10 / 16:17:56  ----->  Mushroom_Data_22062022_103005.csv File loaded successfully!!
 2022-04-10 / 16:18:19  ----->  Connection with the database Prediction.db made
 2022-04-10 / 16:18:19  ----->  File exported successfully!!
+2022-04-10 / 18:06:56  ----->  Connection with the database Prediction.db made
+2022-04-10 / 18:06:56  ----->  Exception occured while deleting the database. Exception: near "DATABASE": syntax error
+2022-04-10 / 18:06:57  ----->  Connection with the database Prediction.db made
+2022-04-10 / 18:06:57  ----->  Table named predictionGoodRawDataTable created successfully in the database
+2022-04-10 / 18:06:57  ----->  Connection with the database Prediction.db made
+2022-04-10 / 18:06:57  ----->  Mushroom_Data_26112022_103005.csv File loaded successfully!!
+2022-04-10 / 18:07:21  ----->  Connection with the database Prediction.db made
+2022-04-10 / 18:07:21  ----->  File exported successfully!!

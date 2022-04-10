@@ -164,3 +164,5 @@
 2022-04-10 / 16:15:32  ----->  The validation for the data file name passed!
 2022-04-10 / 16:17:55  ----->  Valid file name! File moved to the good data folder
 2022-04-10 / 16:17:55  ----->  The validation for the data file name passed!
+2022-04-10 / 18:06:56  ----->  Valid file name! File moved to the good data folder
+2022-04-10 / 18:06:56  ----->  The validation for the data file name passed!

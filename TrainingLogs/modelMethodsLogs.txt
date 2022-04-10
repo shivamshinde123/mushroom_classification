@@ -2924,3 +2924,25 @@
 2022-04-10 / 16:18:21  ----->  Successfully found the name of the model for the cluster number 2
 2022-04-10 / 16:18:21  ----->  Loading the model StackingClassifier.pkl
 2022-04-10 / 16:18:21  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 18:07:21  ----->  Loading the model KMeansCluster.pkl
+2022-04-10 / 18:07:21  ----->  Model KMeansCluster loaded successfully
+2022-04-10 / 18:07:22  ----->  Finding the appropriate model for cluster number 3
+2022-04-10 / 18:07:22  ----->  Successfully found the name of the model for the cluster number 3
+2022-04-10 / 18:07:22  ----->  Loading the model ModelWithConstantOutput.pkl
+2022-04-10 / 18:07:22  ----->  Model ModelWithConstantOutput loaded successfully
+2022-04-10 / 18:07:22  ----->  Finding the appropriate model for cluster number 4
+2022-04-10 / 18:07:22  ----->  Successfully found the name of the model for the cluster number 4
+2022-04-10 / 18:07:22  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 18:07:23  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 18:07:23  ----->  Finding the appropriate model for cluster number 0
+2022-04-10 / 18:07:23  ----->  Successfully found the name of the model for the cluster number 0
+2022-04-10 / 18:07:23  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 18:07:23  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 18:07:24  ----->  Finding the appropriate model for cluster number 1
+2022-04-10 / 18:07:24  ----->  Successfully found the name of the model for the cluster number 1
+2022-04-10 / 18:07:24  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 18:07:24  ----->  Model StackingClassifier loaded successfully
+2022-04-10 / 18:07:24  ----->  Finding the appropriate model for cluster number 2
+2022-04-10 / 18:07:24  ----->  Successfully found the name of the model for the cluster number 2
+2022-04-10 / 18:07:24  ----->  Loading the model StackingClassifier.pkl
+2022-04-10 / 18:07:24  ----->  Model StackingClassifier loaded successfully
