@@ -1,6 +1,7 @@
 import pathlib
 from flask import Flask, redirect, render_template, request, Response, url_for, session
 import secrets
+import json
 
 from src.Predictions_using_trained_model import predictionsUsingTheTrainedModels
 from src.predictionDatabaseOperations import PredictionDBOperations
