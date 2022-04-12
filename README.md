@@ -10,7 +10,6 @@ Project Organization
 |   dvc.lock
 |   dvc.yaml
 |   LICENSE
-|   Makefile
 |   mlruns.dvc
 |   README.md
 |   requirements.txt
