@@ -10,14 +10,10 @@ Project Organization
 |   dvc.lock
 |   dvc.yaml
 |   LICENSE
-|   Makefile
 |   mlruns.dvc
 |   README.md
 |   requirements.txt
-|   setup.py
-|   test_environment.py
-|   tox.ini
-|   tree.txt
+|   Procfile
 +---docs
 |
 |
@@ -73,13 +69,7 @@ Project Organization
 |       
 +---references
 |       .gitkeep
-|       
-+---reports
-|   |   .gitkeep
-|   |   
-|   \---figures
-|           .gitkeep
-|           
+|    
 +---src
 |   |   app.py
 |   |   clustering.py
