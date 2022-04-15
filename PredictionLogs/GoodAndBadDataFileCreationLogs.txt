@@ -191,3 +191,7 @@
 2022-04-10 / 16:17:55  ----->  Deleted the folder for bad raw prediction data successfully.
 2022-04-10 / 18:06:56  ----->  Deleted the folder for good raw prediction data successfully.
 2022-04-10 / 18:06:56  ----->  Deleted the folder for bad raw prediction data successfully.
+2022-04-15 / 15:47:15  ----->  Deleted the folder for good raw prediction data successfully.
+2022-04-15 / 15:47:15  ----->  Deleted the folder for bad raw prediction data successfully.
+2022-04-15 / 16:04:00  ----->  Deleted the folder for good raw prediction data successfully.
+2022-04-15 / 16:04:00  ----->  Deleted the folder for bad raw prediction data successfully.

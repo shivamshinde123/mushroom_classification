@@ -160,3 +160,7 @@
 2022-04-10 / 16:17:55  ----->  Removed the hyphens from the column names successfully
 2022-04-10 / 18:06:56  ----->  Quotes added successfully to the values of columns having string values
 2022-04-10 / 18:06:56  ----->  Removed the hyphens from the column names successfully
+2022-04-15 / 15:47:15  ----->  Quotes added successfully to the values of columns having string values
+2022-04-15 / 15:47:16  ----->  Removed the hyphens from the column names successfully
+2022-04-15 / 16:04:01  ----->  Quotes added successfully to the values of columns having string values
+2022-04-15 / 16:04:01  ----->  Removed the hyphens from the column names successfully
