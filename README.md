@@ -1,125 +1,59 @@
 Mushroom Classification
 ==============================
-The main goal is to predict which mushroom is poisonous & which is edible given mushroom features
+The main goal is to predict which mushroom is poisonous & which is edible given mushroom features.  
 
-Project Organization
-``` bash
-|   .dvcignore
-|   .env
-|   .gitignore
-|   dvc.lock
-|   dvc.yaml
-|   LICENSE
-|   mlruns.dvc
-|   README.md
-|   requirements.txt
-|   Procfile
-+---docs
-|
-|
-+---data
-|
-|
-+---mlruns
-|
-|
-+---models
-|   +---ClusteringModel
-|   |       KMeansCluster.pkl
-|   |       
-|   +---ModelForClusterNo0
-|   |       StackingClassifier.pkl
-|   |       
-|   +---ModelForClusterNo1
-|   |       StackingClassifier.pkl
-|   |       
-|   +---ModelForClusterNo2
-|   |       StackingClassifier.pkl
-|   |       
-|   +---ModelForClusterNo3
-|   |       ModelWithConstantOutput.pkl
-|   |       
-|   \---ModelForClusterNo4
-|           StackingClassifier.pkl
-|           
-+---notebooks
-|       .gitkeep
-|       EDA and preprocessing.ipynb
-|       
-+---PredictionLogs
-|       columnWithAllMissingValuesValidation.txt
-|       DatabaseLogs.txt
-|       GoodAndBadDataFileCreationLogs.txt
-|       numberOfColumnsValidation.txt
-|       Prediction.txt
-|       preprocessingLogs.txt
-|       RawDataFileNameValidation.txt
-|       RawPredictionDataTransformation.txt
-|       
-+---Prediction_Batch_Files
-|       .gitignore
-|       Mushroom_Data_26112022_103005.csv
-|       Mushroom_Data_26112022_103005.csv.dvc
-|       
-+---Prediction_Database
-|       Prediction.db
-|       
-+---Prediction_Output_File
-|       Predictions.csv
-|       
-+---references
-|       .gitkeep
-|    
-+---src
-|   |   app.py
-|   |   clustering.py
-|   |   modeltraining.py
-|   |   modeltuner.py
-|   |   model_methods.py
-|   |   performLogging.py
-|   |   predictionDatabaseOperations.py
-|   |   predictionPreprocessing.py
-|   |   predictionRawDataTransformation.py
-|   |   predictionRawDataValidation.py
-|   |   Predictions_using_trained_model.py
-|   |   trainingDatabaseOperations.py
-|   |   trainingPreprocessing.py
-|   |   trainingRawDataTransformation.py
-|   |   trainingRawDataValidation.py
-|   |   __init__.py
-|   |   
-|   +---templates
-|   |       404.html
-|   |       500.html
-|   |       base.html
-|   |       index.html
-|   |       results.html
-|   |       
-|   \---__pycache__
-|             
-+---TrainingLogs
-|       bestModelFindingLogs.txt
-|       clusteringLogs.txt
-|       columnWithAllMissingValuesValidation.txt
-|       DatabaseLogs.txt
-|       GoodAndBadDataFileCreationLogs.txt
-|       modelMethodsLogs.txt
-|       numberOfColumnsValidation.txt
-|       preprocessingLogs.txt
-|       RawDataFileNameValidation.txt
-|       RawTrainingDataTransformation.txt
-|       valuesFromSchemaLog.txt
-|       
-+---Training_Batch_Files
-|       .gitignore
-|       Mushroom_Data_23042021_023412.csv
-|       Mushroom_Data_23042021_023412.csv.dvc
-|       
-\---Training_Database
-|        Training.db
-|
-|
+![](https://img.shields.io/github/last-commit/shivamshinde123/mushroom_classification)
+![](https://img.shields.io/github/languages/count/shivamshinde123/mushroom_classification)
+![](https://img.shields.io/github/languages/top/shivamshinde123/mushroom_classification)
+![](https://img.shields.io/github/repo-size/shivamshinde123/mushroom_classification)
+![](https://img.shields.io/github/directory-file-count/shivamshinde123/mushroom_classification)
+![](https://img.shields.io/github/license/shivamshinde123/mushroom_classification)
+
+## Run Locally
+
+Clone the project
+
+```bash
+    git clone https://github.com/shivamshinde123/mushroom_classification.git
+```
+
+Go to the project directory
+
+```bash
+    cd project-name
+```
+
+Create a conda environment
+
+```bash
+    conda create -n environment_name python=3.10
+```
+
+Activate the created conda environment
+
+```bash
+    conda activate environment_name
+```
+
+Install dependencies
+
+```bash
+  pip install requirements.txt
+```
+
+Start the server
+
+```bash
+  python src/app.py
 ```
 
 
---------
+## 🚀 About Me
+I'm an aspiring data scientist and a data analyst.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://shivamdshinde.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ShivamS64852411)
+
